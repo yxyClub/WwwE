@@ -6,13 +6,10 @@ date: 2016-03-06
 categories: blog
 tags: [遇见,专题]
 description: 所有事物都在相遇。你与我会相遇，你与疑惑会相遇，你与命运会相遇，你与神会相遇。只要你足够诚实，所有秘密都会显现出来。
-
 ---
 
 
 ![](http://openmindclub.qiniudn.com/cnfeat/image/WhiteRose.jpg)
-
-
 
 
 题图：我第一次送给 L小姐 的白玫瑰。
