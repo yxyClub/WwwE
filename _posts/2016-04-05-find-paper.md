@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 抵达智慧流淌之地
-date: 2016-02-05
+date: 2016-04-05
 categories: blog
 tags: [论文,源头]
 description: 哪渠清如水，源头活水来。
