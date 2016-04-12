@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  老公又死了|做赛亚人妻子是什么一种体验？(四)
-date: 2016-01-06
+title:  做赛亚人妻子是什么一种体验？(四)
+date: 2015-12-06
 categories: blog
 tags: [七龙珠,琪琪]
 description: 久违了，各位，连载继续。
