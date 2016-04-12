@@ -14,7 +14,7 @@ header-img: "img/green.jpg"
 
 现在研习 **认知写作学** 。
 
-###坚信
+### 坚信
 
 
 - 元认知乃一切之源
@@ -23,7 +23,7 @@ header-img: "img/green.jpg"
 - 「持续」并不是坚持，写就是最好的回报
 
 
-###关注：
+### 关注：
 
 
 - [元认知](http://www.mesule.com/)
@@ -35,7 +35,7 @@ header-img: "img/green.jpg"
 
 
 
-###代表作：
+### 代表作：
 
 - [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
 
@@ -44,14 +44,14 @@ header-img: "img/green.jpg"
 - [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
 
 
-###我的朋友们
+### 我的朋友们
 
 - [YiLee](http://yilee.me)
 - [Caos](http://caos.me)
 - [BuzhiNote](http://BuzhiNote.com)
 - [Azeril](http://azeril.me)
 
-###联系
+### 联系
 
 - [博客：www.cnfeat.com](www.cnfeat.com)
 
