@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  预告|做赛亚人妻子是什么一种体验？
-date: 2015-12-22
+date: 2015-12-02
 categories: blog
 tags: [七龙珠,琪琪]
 description: 《七龙珠》最苦命的女子琪琪的一生。（题图：七龙珠）

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  我猜到了开头|做赛亚人妻子是什么一种体验？(终)
-date: 2016-01-12
+title:  做赛亚人妻子是什么一种体验？(终)
+date: 2015-12-08
 categories: blog
 tags: [七龙珠,琪琪]
 description:  你们想看的《千金难抵万般疼爱》连载要等到周六才能看到咯。

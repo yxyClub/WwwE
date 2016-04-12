@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  私定终身|做赛亚人妻子是什么一种体验？(一)
-date: 2015-12-16
+title:  做赛亚人妻子是什么一种体验？(一)
+date: 2015-12-03
 categories: blog
 tags: [七龙珠,琪琪]
 description: 《七龙珠》最苦命的女子：琪琪

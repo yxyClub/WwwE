@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 等你六年又如何？|做赛亚人妻子是什么一种体验？(二)
-date: 2015-12-16
+title: 做赛亚人妻子是什么一种体验？(二)
+date: 2015-12-04
 categories: blog
 tags: [七龙珠,琪琪]
 description: 能比武招亲的都是奇女子。题图：天下第一武道会悟空与琪琪第二次相遇。
