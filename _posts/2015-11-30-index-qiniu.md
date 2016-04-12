@@ -200,7 +200,7 @@ python gen4idx.py /path/2/gen /path/2/foot.html[模板] excludePath
 
 ----
 
-###**【六经皆我注脚】**
+### **【六经皆我注脚】**
 
 《阿甘正传》，当Jenny问Forrest「你为什么对我这么好」
 

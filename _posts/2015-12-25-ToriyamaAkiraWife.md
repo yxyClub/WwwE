@@ -25,7 +25,7 @@ description: 你只需做一小部分有价值的事情就可以改变现状。
 
 ----
 
-###**【六经皆我注脚】**
+### **【六经皆我注脚】**
 
 ![](http://openmindclub.qiniudn.com/team/cnfeat/image/ToriyamaAkiraWife.jpg)
 

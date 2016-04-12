@@ -10,7 +10,7 @@ description: 如何用「断舍离」应对信息过载？
 
 
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/duansheli.jpg)
+![](![](http://openmindclub.qiniudn.com/cnfeat/image/duansheli.jpg)
 
 ## 背景 
 
@@ -67,7 +67,7 @@ description: 如何用「断舍离」应对信息过载？
 >注：「山顶上的人」在山下英子著作中为「飞机上的人」，窃以为「飞机上的人」不符合[记忆的生存优势效应](http://www.nssd.org/articles/article_detail.aspx?id=41962886)，略作修订。
 
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/duansheli)
+![](http://openmindclub.qiniudn.com/cnfeat/image/duansheli2.jpg)
 
 
 ## 如何用「自在力」处理信息过载？
@@ -138,7 +138,7 @@ description: 如何用「断舍离」应对信息过载？
 
 ----
 
-###**【学苟知本,六经皆我注脚】**
+### **【学苟知本,六经皆我注脚】**
 
 
 哈哈，估计你看到最后的书单，信息过载的问题更严重了。

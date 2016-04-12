@@ -337,13 +337,6 @@ Ps
 
 
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/20150913-220033.jpg)
-
-
-（题图：saurabh mohnot by Nik FC）
-
-
-
 
 
 

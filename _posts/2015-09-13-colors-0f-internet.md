@@ -21,97 +21,122 @@ description: 以下我从各大互联网公司网站采集回来的颜色图谱�
 >
 >——也斯
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.jpg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.001.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.002.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.003.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.004.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.005.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.006.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.007.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.008.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.009.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.010.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.011.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.012.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.013.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.014.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.015.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.016.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.017.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.018.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.019.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.020.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.021.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.022.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.023.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.024.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.025.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.026.jpeg)
+
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.027.jpeg)
 
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.001.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.028.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.002.jpg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.003.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.029.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.004.jpg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.005.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.030.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.006.jpg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.007.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.031.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.008.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.032.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.009.jpg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.010.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.033.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.011.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.034.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.012.jpg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.013.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.035.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.014.jpg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.015.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.036.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.016.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.037.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.017.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.038.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.018.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.040.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.019.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.041.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.020.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.042.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.021.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.043.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.022.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.044.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.023.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.045.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.024.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.046.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.025.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.047.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.026.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.048.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.027.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.049.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.028.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/colors-0f-internet.050.jpeg)
 
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.029.jpg)
-
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.030.jpg)
-
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.031.jpg)
-
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.032.jpg)
-
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.033.jpg)
-
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.034.jpg)
-
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.035.jpg)
-
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.036.jpg)
-
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.037.jpg)
-
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.038.jpg)
-
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.039.jpg)
-
-![](http://7d9mjz.com1.z0.glb.clouddn.com/colors-0f-internet.041.jpg)
-
-###迭代
+### 迭代
 
 
 - 2015-09-13 22:44:16 一稿完成
+- 2016-04-12 替换图片
 
 ---
 
-###**【学苟知本】**
+### **【学苟知本】**
 
 
 一切到了最后可以如此简约，任天气作主，阳光走它走惯的路，带来四时不同的色彩，在不可逆转的生命过程里，也总有柔美的事物。
@@ -121,11 +146,6 @@ description: 以下我从各大互联网公司网站采集回来的颜色图谱�
 
 
 ----
-
-
-
-
-![](http://7d9mjz.com1.z0.glb.clouddn.com/20150913-220033.jpg)
 
 
 （题图：colors-0f-internet by cnfeat）
