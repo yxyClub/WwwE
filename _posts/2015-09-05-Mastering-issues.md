@@ -1,16 +1,11 @@
 ---
 layout: post
-title: 玩转 Issue
+title: 玩转 Issue（未完成的译稿）
 date: 2015-09-05
 categories: blog
 tags: [github,麦肯锡]
 description: 议题（Issue）是 github 中管理任务的有效方法。
-
-
 ---
-
-
-
 
 ## 玩转 Issue
 
@@ -149,6 +144,8 @@ There are two ways to receive notifications: via email, and via the web. You can
 
 接收通知的方式有两种：邮件和网页。你可以自由设置通知的接收方式，如果你乐意接收大量的通知，我们推荐你使用 邮件+网页 的组合，这样，你就用邮件来参与回复通知，用网页来查看通知。
 
+
+- 2016-04-12 没完成
 
 
 
