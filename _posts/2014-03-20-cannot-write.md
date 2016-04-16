@@ -39,20 +39,11 @@ description: 我常常在想，为什么有的人能够天天写不同的东西�
 
 你这个不是没有料的问题，终于绕回料的问题了，如何补料？这个问题就不要问了，大师说过：人蠢就要多读书。
 
-【千字文】cnfeat 出品
 
-【微信号】：cnfeat
-
-尽最大的诚意，但不知道会何时消失，如果可以，就不要「再试一次」。
- 
-![](http://cnfeat.qiniudn.com/%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A.jpg)
 【一期一会】
 
 老白：知道你去拍电影，特意准备了一份大礼，只能帮到这了。
 
 
-![](http://cnfeat.qiniudn.com/bb.jpg)
-
-
-![](http://cnfeat.qiniudn.com/qrcode_for_gh_f788adf0c391_430.jpg)
+![](http://openmindclub.qiniudn.com/omt/BearkBad.jpg)
 

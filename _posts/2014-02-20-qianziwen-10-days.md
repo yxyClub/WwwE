@@ -62,17 +62,6 @@ description: 《如何坚持每天写一千字》中提到有六个方法，刚�
 
 2014年2月20日 23:20:58 65min
 
-（题图：First Contact by Max Rive）
-
-![](http://pic.yupoo.com/vankos_v/DMJiv6i8/mHDSX.png)
-
-回复「微信群」关键字，获得「每天写一千字改变自己」微信群二维码，阅读并认可群规后即可加入。
-
-回复「群规」关键字，获得群规。
-
-点击「阅读原文」看[我的知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-![](http://pic.yupoo.com/vankos_v/DMJgUjgl/8Rvrt.png)
 **【一期一会】**
 
 ![](http://media-cache-ak0.pinimg.com/736x/fd/6c/05/fd6c051e4e24e3f86998f64c487c1b81.jpg)
