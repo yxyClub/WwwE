@@ -89,7 +89,7 @@ description: 继续折腾，七牛云。
 - footer-7niu.html
 - gen4idx.py
 
-下载链接: http://pan.baidu.com/s/1c0gCFYw 密码: zesg
+链接: http://pan.baidu.com/s/1i49VE9R 密码: w4gx
 
 ### 说明
 
