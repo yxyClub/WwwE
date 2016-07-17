@@ -47,7 +47,7 @@ blockquote {
 blockquote p {
   margin: 0;
 }
-@media screen and (max-width: 768px) {
+@media only screen and (min-width: 768px) {
   select {
     -webkit-appearance: none;
     margin-top: 15px;
@@ -108,7 +108,7 @@ hr.small {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 80%;
   z-index: 3;
   font-family: "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
