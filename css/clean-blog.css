@@ -1,7 +1,7 @@
 body {
   font-family: "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
-  font-size: 16px;
+  font-size: 17px;
   color: #404040;
   overflow-x: hidden;
 }
@@ -41,7 +41,6 @@ article {
 }
 blockquote {
   color: #808080;
-  font-style: italic;
   font-size: 0.95em;
   margin: 20px 0 20px;
 }
