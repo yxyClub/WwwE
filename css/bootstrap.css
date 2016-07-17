@@ -1569,7 +1569,7 @@ pre code {
 }
 @media (min-width: 700px) {
   .container {
-    width: 750px;
+    width: 700px;
   }
 }
 @media (min-width: 992px) {
