@@ -108,7 +108,7 @@ hr.small {
   position: absolute;
   top: 0;
   left: 0;
-  width: 80%;
+  width: 100%;
   z-index: 3;
   font-family: "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
