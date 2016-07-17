@@ -19,4 +19,14 @@
 - 「持续」并不是坚持，写就是最好的回报
 
 
+### Changelog
+
+- 20160717 博客优化
+	- 增加 Google Analytics
+	* 修订 Gavatar 地址
+	* 增加作品集 works
+	* 缩短首页摘要为 70 字
+	* 多说替换成 disqus
+
+
 
