@@ -26,9 +26,7 @@ header-img: "img/green.jpg"
 ### 关注：
 
 
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
+- [元认知学习通讯](http://www.mesule.com/)
 - [阳志平](http://www.yangzhiping.com/)
 - [ZoomQuiet](http://blog.zoomquiet.io/)
 
@@ -55,7 +53,7 @@ header-img: "img/green.jpg"
 
 - [博客：www.cnfeat.com](www.cnfeat.com)
 
-- [微博@CnFeat](http://weibo.com/207775270)
+- [微博@CNFeat](http://weibo.com/207775270)
 
 - [知乎@陈素封](http://www.zhihu.com/people/Feat)
 
