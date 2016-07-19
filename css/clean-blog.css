@@ -73,7 +73,9 @@ hr.small {
     width: 500px;
   }
 }
-
+。container {
+  width: 80%；
+}
 .post-container a {
   color: #2B4180;
 }
