@@ -3,6 +3,8 @@ body {
   line-height: 1.7;
   font-size: 17px;
   color: #404040;
+  width: 800px;
+  margin: auto;
   overflow-x: hidden;
 }
 p {
@@ -72,9 +74,6 @@ hr.small {
     display: block;
     width: 500px;
   }
-}
-.post-container {
-  width: 58%;
 }
 
 .post-container a {
