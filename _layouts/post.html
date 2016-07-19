@@ -71,9 +71,9 @@ layout: default
     */
     (function() {  // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');
-        
+
         s.src = '//cnfeat.disqus.com/embed.js';
-        
+
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
     })();
@@ -111,8 +111,8 @@ layout: default
     /* place left on bigger screen */
     @media all and (min-width: 800px) {
         .anchorjs-link{
-            position: absolute;
-            left: -0.75em;
+            position: relative;
+            /*left: -0.75em;*/
             font-size: 1.1em;
             margin-top : -0.1em;
         }
