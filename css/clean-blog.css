@@ -19,6 +19,12 @@ h6 {
   line-height: 1.1;
   font-weight: 800;
 }
+
+h1, h2, h3, h4, h5, h6 a {
+  position: relative;
+  padding-left: 1em;
+}
+
 h1 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -74,6 +80,9 @@ hr.small {
   }
 }
 
+.post-container {
+  background: rgba(221, 221, 221, 0.15);
+}
 .post-container a {
   color: #2b79c3;
 }
