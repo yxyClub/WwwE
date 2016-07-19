@@ -8,7 +8,7 @@ description: 看一个人的微博是一种乐趣。
 ---
 
 
-##前言
+## 前言
 
 2014年7月9日，我突然萌生看完一个人微博的念头，并写下了一篇文章[《你为什么要开个只关注一个人的微博》](http://cnfeat.com/2014/07/14/2014-07-14-one-weibo/)。
 
@@ -230,7 +230,7 @@ description: 看一个人的微博是一种乐趣。
 
 ![](http://cnfeat.qiniudn.com/mHDSX.png)
 
-雕爷长微博打包的百度网盘的地址:http://pan.baidu.com/s/1kTQGRav
+雕爷长微博打包的百度网盘的地址:http://pan.baidu.com/s/1gfsdGHH
 
 
 

@@ -8,7 +8,7 @@ description: 介绍雕爷前期建立的商业项目：雕爷牛腩\皮娜鲍什
 ---
 
 
-###雕爷牛腩
+### 雕爷牛腩
 
 ![](http://ww2.sinaimg.cn/bmiddle/633322d0jw1e18buh5dvsj.jpg)
 
