@@ -18,7 +18,7 @@ description: "陈素封"
             {{ post.content | strip_html | truncate:55 }}
         </div>
     </a>
-    <p class="post-meta">Posted on {{ post.date | date: "%20y-%m-%d" }}</p>
+    <p class="post-meta">Posted on {{ post.date | date: "%yyyy-%m-%d" }}</p>
 </div>
 
 <hr>
