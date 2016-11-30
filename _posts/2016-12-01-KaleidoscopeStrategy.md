@@ -13,9 +13,12 @@ description: 我只作过极少的决定。使我走上我所走过的特定道�
 
 刚进入创业公司工作的你，正有一个困扰：你不确定是否再有精力加入一个全球性组织担任志愿者。正职工作有挑战性，需要全身投入，而志愿者的组织结构虽好，但协作方式与公司的大大不同，你觉得需分配大量时间才能适应，你该如何衡量？
 
-在人生迷宫，你总会遇上[分岔路口](http://www.bagtheweb.com/b/CRss3x)，尤其是面临职业发展、身心发展、工作家庭[的选择](http://www.bagtheweb.com/b/Nr3SgY)时，你总会期盼有人一份人生选择指南，帮助自己作出决定。
 
-诺贝尔经济学得主赫伯特·亚历山大·西蒙（Herbert Alexander Simon）也不例外。
+![](http://openmindclub.qiniudn.com/omt/MazeWestworld.jpg)
+
+在人生迷宫[分岔路口](http://www.bagtheweb.com/b/CRss3x)，你总会期盼有人一份人生选择指南，帮助自己作出决定。
+
+赫伯特·亚历山大·西蒙（Herbert Alexander Simon）也不例外。
 
 ## 西蒙的迷宫
 
