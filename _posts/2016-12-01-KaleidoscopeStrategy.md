@@ -21,7 +21,7 @@ description: 我只作过极少的决定。使我走上我所走过的特定道�
 
 西蒙一生游走在不同迷宫。他在大学先是在政治学迷宫探索，毕业后转移至管理行为迷宫，后来拓展研究与科学政治学迷宫，最后将余生奉献给了计算机科学与心理学迷宫。63 岁的他凭「经济组织内的决策过程进行的开创性的研究」获诺贝尔经济学奖，一生获得 9 个博士学位。
 
-他曾经这样说过：「我是个科学家，但涉及许多学科。我在许多迷宫探索过，然而它们并不是连成一个迷宫。我不想把我的一生写成单一的统一体。」……**「我对迷宫着迷的原因是我一直想观察[人们在面临岔道时的行为以及背后的逻辑。]**(http://www.yangzhiping.com/psy/Working-Identity.html)」
+他曾经这样说过：「我是个科学家，但涉及许多学科。我在许多迷宫探索过，然而它们并不是连成一个迷宫。我不想把我的一生写成单一的统一体。」……**「我对迷宫着迷的原因是我一直想观察[人们在面临岔道时的行为以及背后的逻辑。](http://www.yangzhiping.com/psy/Working-Identity.html)」**
 
 可见，西蒙生命空间并不是一个大迷宫，而是多个小迷宫，多个小迷宫均抵达一定深度。如何能在迷宫中还能抵达一定深度？他在自传《我生活的种种模式》中说：
 
@@ -127,7 +127,7 @@ description: 我只作过极少的决定。使我走上我所走过的特定道�
 
 ![](http://openmindclub.qiniudn.com/omt/NabokovWriteStyle01.jpg)
 
-##### -The End-
+### -The End-
 
 ![](https://mmbiz.qlogo.cn/mmbiz_jpg/HRoY0QT1GiaYf17zBvXhaOZRN6chic1qyf8okaeb4gicxhviaribuC9JRy0RRq9z2LS3aSNXJOfBhqghia08pANfW4Jw/0?wx_fmt=jpeg)
 
@@ -136,7 +136,7 @@ description: 我只作过极少的决定。使我走上我所走过的特定道�
 * [故事花生米](http://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=2650639136&idx=1&sn=514165fe8a649937424d98d377b5b391#rd)
 
 
-#### 六经注我
+### 六经注我
 
 一个有高度竞争感的人生活很艰难。除非竞争是激烈而且公正的，否则他赢了也不会满足。
 
