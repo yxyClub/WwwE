@@ -1,4 +1,13 @@
-# 诺贝尔奖得主西蒙：最好是好的敌人
+---
+layout: post
+title: 诺贝尔奖得主西蒙：最好是好的敌人
+date: 2016-12-13
+categories: blog
+tags: [西蒙,有限理性]
+description: 你只需做一小部分有价值的事情就可以改变现状。
+---
+
+
 
 诺贝尔奖得主西蒙（Herbert Alexander Simon）一生爱两个隐喻，迷宫和花园，尤其是写他的自传《我生活的种种模式》时。
 
@@ -78,7 +87,7 @@
 
 
 
-###  本文使用[卡片创作法](http://cnfeat.com/blog/2016/11/20/NabokovWriteStyle/)写成*
+###  本文使用[卡片创作法](http://cnfeat.com/blog/2016/11/20/NabokovWriteStyle/)写成
 
 ![](http://openmindclub.qiniudn.com/omt/CardWriting01.jpg)
 
