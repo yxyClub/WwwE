@@ -1,5 +1,11 @@
-# 写给过去的自己
-
+---
+layout: post
+title: 写给过去的自己
+date: 2016-10-02
+categories: blog
+tags: [过去的自己,纯银]
+description: 你可以有机会回到过去看看每一年的自己，你会怎么做？有什么感慨？
+---
 
 你可以有机会回到过去看看每一年的自己，你会怎么做？有什么感慨？
 
@@ -58,12 +64,7 @@
 三十岁，到了，还没过完，我还不能对你说些什么，希望你成为你想成为的人。
 
 
-##### -The End-
-
-![](https://mmbiz.qlogo.cn/mmbiz_jpg/HRoY0QT1GiaZpdgk6VsGcDvbNwia3caIrg9rmpJYKInic32Pmx7TmG0ST9ibKuSd6YYzSGJjnwBuhl9wx0T6nHXh9w/0?wx_fmt=jpeg)
-
-
-#### 六经注我
+### 六经注我
 
 为了写这篇文章，我还特意找了 SHE 的《你曾是少年》来听。
 
