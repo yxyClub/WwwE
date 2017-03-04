@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 诺贝尔奖得主西蒙：最好是好的敌人
+title: 西蒙一生研究学习的秘密武器
 date: 2016-12-13
 categories: blog
 tags: [西蒙,有限理性]
