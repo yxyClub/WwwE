@@ -56,8 +56,8 @@ description: 工作时间表有两种：管理者时间表和创造者时间表�
 当然，我们这些使用创造者时间表的人也是愿意作出让步的，我们也知道该多参加些会议，但我们也希望管理者时间表的人也能够理解，我们参加会议也是需要付出代价的，仅此而已。■
 
 
-原文：http://www.paulgraham.com/makersschedule.html
-翻译：陈素封
+* 原文：http://www.paulgraham.com/makersschedule.html
+* 翻译：陈素封
 
 
 ### ChangeLog
