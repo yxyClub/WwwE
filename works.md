@@ -27,11 +27,12 @@ header-img: "img/semantic.jpg"
 * [写作风格思考 15 条 - 读立写生](http://www.cnfeat.com/blog/2017/03/28/WriteStyleThinking15/)
 * [如何卡片创作之西蒙篇 - 读立写生](http://www.cnfeat.com/blog/2016/12/21/CardWriteSimon/)
 * [像纳博科夫一样写作：卡片创作法 - 读立写生](http://www.cnfeat.com/blog/2016/11/20/NabokovWriteStyle/)
-* [读诗的八个夜晚 - 读立写生](http://www.cnfeat.com/blog/2017/05/13/PoemNigt/)
+* [卡片编剧法：像奥斯卡获奖编剧一样写好故事 - 读立写生](http://www.cnfeat.com/blog/2017/05/09/OscarScreenWriterCardsUsage/)
 * [索引卡简史：从这里窥见互联网信息革命 - 读立写生](http://www.cnfeat.com/blog/2017/03/24/Briefhistory/)
 * [善用记忆生存优势效应，是写作必修课 - 读立写生](http://www.cnfeat.com/blog/2017/03/17/MemoryEffectOfSurvival/)
 * [我的作品观 - 读立写生](http://www.cnfeat.com/blog/2017/03/07/Creation-Viewpoints/)
 * [相信书写的力量 - 读立写生](http://www.cnfeat.com/blog/2017/02/21/ThePowerOfWords/)
+* [读诗的八个夜晚 - 读立写生](http://www.cnfeat.com/blog/2017/05/13/PoemNigt/)
 * [你好哇，情感](http://www.cnfeat.com/blog/2017/02/16/HelloEmotion/)
 
 
@@ -43,6 +44,8 @@ header-img: "img/semantic.jpg"
 * [如何卡片创作之西蒙篇 - 读立写生](http://www.cnfeat.com/blog/2016/12/21/CardWriteSimon/)
 * [西蒙一生研究学习的秘密武器 - 读立写生](http://www.cnfeat.com/blog/2016/12/13/BestVSGood/)
 * [硅谷钢铁侠 Elon Musk 练就超强学习能力的秘密 - 读立写生](http://www.cnfeat.com/blog/2017/04/26/HowElonMuskLearnsFasterAndBetterThanEveryoneElse/)
+* [掌握这 10 条人性规律，你也有可能做出畅销世界的产品 - 读立写生](http://www.cnfeat.com/blog/2017/05/24/Biz10Rules/)
+* [这 5 个高效工作习惯我正在用，推荐给你 - 读立写生](http://www.cnfeat.com/blog/2017/05/04/FiveHabbits/)
 * [一个没有做出过突出贡献的人对这个社会有什么价值？ - 读立写生](http://www.cnfeat.com/blog/2017/06/03/TheMoonAndSixpence/)
 * [Julie Zhuo：停留学习区 - 读立写生](http://www.cnfeat.com/blog/2017/04/26/StayingintheDiscomfortZone/)
 * [Darius Foroux：提升创新思维的 4 个技巧 - 读立写生](http://www.cnfeat.com/blog/2017/04/26/4IdeasToImproveYourCreativeThinking/)
