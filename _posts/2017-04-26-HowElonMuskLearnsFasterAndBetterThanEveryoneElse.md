@@ -72,7 +72,7 @@ Musk 在 Reddit AMA （ http://t.cn/RZVbeMn ）上的答案描述了他的做�
 
 它的工作原理是这样的：假设你要解构字母「A」，搞清楚构成「A」的深层原理，具体来讲，你有两种方法：
 
-
+![](http://openmindclub.qiniudn.com/omt/ElonMuskAModel.jpg)
 
 以上两种方法，你认为哪种方法能更好地识别构成「A」的模式？
 
