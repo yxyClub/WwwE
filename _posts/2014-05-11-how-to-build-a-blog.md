@@ -331,6 +331,9 @@ https://GitHub.com/你的用户名/blog.io
 改好之后，可以发现，'你的 GitHub 用户名.GitHub.io' 已经可以访问了。
 
 
+P.S.更多博客模板请见 [GoodThingList/GoodJekyllBlogList.md at master · cnfeat/GoodThingList](https://github.com/cnfeat/GoodThingList/blob/master/GoodJekyllBlogList.md)
+
+
 ## 将独立域名与 GitHub Pages 的空间绑定
 
 ### GitHub Pages 的设置
