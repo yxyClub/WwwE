@@ -21,9 +21,9 @@ header-img: "img/green.jpg"
 
 价格：199 元/年，时间截止至 2018/02/22，每日更新。
 
-地址：http://t.xiaomiquan.com/ufe23vv
+地址：[http://t.xiaomiquan.com/ufe23vv](http://t.xiaomiquan.com/ufe23vv)
 
-![](http://openmindclub.qiniudn.com/omt/ProductList01.jpg)
+![](http://openmindclub.qiniudn.com/omt/ProductList01.jpg?imageMogr2/thumbnail/!50p)
 
 ## 小鹅通：每天写1000字改变自己
 
@@ -31,9 +31,9 @@ header-img: "img/green.jpg"
 
 价格：0.01元 ~ 42 元不等，每个季度至少更新 1 个主题。
 
-地址：https://h5.xiaoeknow.com/appmcFwb1Wy8464/
+地址：[https://h5.xiaoeknow.com/appmcFwb1Wy8464/](https://h5.xiaoeknow.com/appmcFwb1Wy8464/)
 
-![](http://openmindclub.qiniudn.com/omt/ProductList02.jpg)
+![](http://openmindclub.qiniudn.com/omt/ProductList02.jpg?imageMogr2/thumbnail/!50p)
 
 ## 博客/公众号：读立写生
 
@@ -41,9 +41,9 @@ header-img: "img/green.jpg"
 
 免费，每月至少更新 2 篇。
 
-地址：www.cnfeat.com 
+地址：[www.cnfeat.com](http://www.cnfeat.com) 
 
-![](http://openmindclub.qiniudn.com/omt/ProductList03.jpg)
+![](http://openmindclub.qiniudn.com/omt/ProductList03.jpg?imageMogr2/thumbnail/!50p)
 
 ## 邮件列表：卡片创作通讯
 
@@ -51,9 +51,9 @@ header-img: "img/green.jpg"
 
 免费，每月至少更新 1 封。
 
-地址：http://tinyletter.com/cnfeat
+地址：[http://tinyletter.com/cnfeat](http://tinyletter.com/cnfeat)
 
-![](http://openmindclub.qiniudn.com/omt/ProductList04.jpg)
+![](http://openmindclub.qiniudn.com/omt/ProductList04.jpg?imageMogr2/thumbnail/!50p)
 
 ##  GitHub：CNFeat 
 
@@ -61,9 +61,9 @@ header-img: "img/green.jpg"
 
 免费，不定期更新。
 
-地址：https://github.com/cnfeat/GoodThingList
+地址：[https://github.com/cnfeat/GoodThingList](https://github.com/cnfeat/GoodThingList)
 
-![](http://openmindclub.qiniudn.com/omt/ProductList05.jpg)
+![](http://openmindclub.qiniudn.com/omt/ProductList05.jpg?imageMogr2/thumbnail/!50p)
 
 
 
