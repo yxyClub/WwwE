@@ -65,13 +65,19 @@ header-img: "img/green.jpg"
 
 ![](http://openmindclub.qiniudn.com/omt/ProductList05.jpg?imageMogr2/thumbnail/!30p)
 
+## 电报群：读立写生
+
+链接：https://t.me/joinchat/DBBMvQwAzVbD7RiiDe4Mbg
+
+官方唯一公开讨论群
+
 
 
 ## 最近在干嘛？
 
-* 2017-07 每天更新小密圈；
-* 2017-02 练习快速阅读，小有成效，秘诀只有一个：多读；
-* 2016-12 主题阅读西蒙的书，分享自己卡片写作的心得；
+- 2017-07 每天更新小密圈；
+- 2017-02 练习快速阅读，小有成效，秘诀只有一个：多读；
+- 2016-12 主题阅读西蒙的书，分享自己卡片写作的心得；
 
 
 ## 坚信
@@ -88,5 +94,6 @@ header-img: "img/green.jpg"
 
 ### ChangeLog
 
+- 2017-08-09 增补电报群
 - 2017-07-11 更新产品列表
 - 2017-03-05 更新 最近在干嘛
