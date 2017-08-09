@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 像纳博科夫一样写作：卡片创作法
+title: 卡片创作法之纳博科夫
 date: 2016-11-20
 categories: blog
 tags: [纳博科夫,卡片]
