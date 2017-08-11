@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《领导梯队》：普通人学习管理与领导的第一本书
+title: 《领导梯队》：普通人学习管理的第一本书
 date: 2017-07-06
 categories: blog
 tags: [领导,管理]
