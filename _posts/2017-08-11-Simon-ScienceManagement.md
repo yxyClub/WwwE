@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《管理决策新科学》：拥抱新技术的管理实践
-date: 2017-09-05
+date: 2017-08-11
 categories: blog
 tags: [思考,麦肯锡]
 description: 你只需做一小部分有价值的事情就可以改变现状。
