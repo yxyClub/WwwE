@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 空间表征：专家如何解决问题？
-date: 2017-09-05
+date: 2017-08-17
 categories: blog
 tags: [空间,专家]
 description: 新手成为专家的过程就是将问题空间逐步清晰化的过程。
