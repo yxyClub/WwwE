@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 高阶学习者的自修法
+title: 高阶学习者的自修法之王云五
 date: 2017-08-16
 categories: blog
 tags: [高阶,王云五]
