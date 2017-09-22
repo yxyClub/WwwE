@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
     <p><img src="http://openmindclub.qiniudn.com/omt/WhiteAvatar.jpg" align="center"></p>
 </center>
 
-我是[陈素封](http://www.cnfeat.com/about/)，持续写作者，终身学习者，我的产品列表如下：
+我是陈素封，持续写作者，终身学习者，我的产品列表如下：
 
 
 ## 小密圈：每天写 1000 字改变自己
@@ -34,6 +34,7 @@ header-img: "img/green.jpg"
 
 地址：[www.cnfeat.com](http://www.cnfeat.com) 
 
+![](http://openmindclub.qiniudn.com/omt/ProductList03.jpg?imageMogr2/thumbnail/!30p)
 
 ## 邮件列表：卡片创作通讯
 
@@ -43,7 +44,7 @@ header-img: "img/green.jpg"
 
 地址：[http://tinyletter.com/cnfeat](http://tinyletter.com/cnfeat)
 
-
+![](http://openmindclub.qiniudn.com/omt/ProductList04.jpg?imageMogr2/thumbnail/!30p)
 
 ##  GitHub：CNFeat 
 
@@ -53,7 +54,7 @@ header-img: "img/green.jpg"
 
 地址：[https://github.com/cnfeat/GoodThingList](https://github.com/cnfeat/GoodThingList)
 
-
+![](http://openmindclub.qiniudn.com/omt/ProductList05.jpg?imageMogr2/thumbnail/!30p)
 
 ## 电报群：读立写生
 
@@ -62,13 +63,9 @@ header-img: "img/green.jpg"
 官方唯一公开讨论群
 
 
-<center>
-    <p><img src="http://openmindclub.qiniudn.com/omt/WhiteAvatar.jpg" align="center"></p>
-</center>
 
 ## 最近在干嘛？
 
-- 2017-09 练习《笨方法学Python》，学习产品经理知识；
 - 2017-07 每天更新小密圈；
 - 2017-02 练习快速阅读，小有成效，秘诀只有一个：多读；
 - 2016-12 主题阅读西蒙的书，分享自己卡片写作的心得；
