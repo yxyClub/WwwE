@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
     <p><img src="http://openmindclub.qiniudn.com/omt/WhiteAvatar.jpg" align="center"></p>
 </center>
 
-我是陈素封，持续写作者，终身学习者，我的产品列表如下：
+我是[陈素封](http://www.cnfeat.com/about/)，持续写作者，终身学习者，我的产品列表如下：
 
 
 ## 小密圈：每天写 1000 字改变自己
