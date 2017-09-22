@@ -7,16 +7,13 @@ header-img: "img/semantic.jpg"
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="http://openmindclub.qiniudn.com/omt/WhiteAvatar.jpg" align="center"></p>
 </center>
-
-
-如果你想快速了解我，就读这些文章好了。
 
 
 ## 故事与人生
 
-* 人生三十年尽收眼底：[给过去自己的一封信](http://www.cnfeat.com/blog/2017/03/03/a-letter-to-myself-in-that-past/)
+* 说说我自己的故事：[给过去自己的一封信](http://www.cnfeat.com/blog/2017/03/03/a-letter-to-myself-in-that-past/)
 * 说说我的写作故事：[如何正确地练习写作](http://www.jianshu.com/p/2621444b619d)
 
 ## 卡片与创作
