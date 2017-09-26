@@ -60,10 +60,16 @@ header-img: "img/green.jpg"
 
 官方唯一公开讨论群
 
-<center>
-    <p><img src="http://openmindclub.qiniudn.com/omt/WhiteAvatar.jpg" align="center"></p>
-</center>
+## 自愿付费
 
+有价值的事物，值得付出时间，也值得付出金钱。
+
+喜欢文章的人可自愿付费，当然也可以不付费。
+
+
+<center>
+    <p><img src="http://openmindclub.qiniudn.com/omt/WechatPay.jpg" align="center"></p>
+</center>
 
 
 ## 最近在干嘛？
