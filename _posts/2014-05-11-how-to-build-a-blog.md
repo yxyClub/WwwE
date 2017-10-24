@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 如何搭建一个独立博客——简明 GitHub Pages与 jekyll 教程
-date: 2014-05-10 13:31:54
+date: 2014-05-11
 categories: blog
 tags: [Hexo,GitHub,独立博客]
 description: 这是一篇很详尽的独立博客搭建教程，里面介绍了域名注册、DNS设置、GitHub 和 jekyll 设置等过程，这是我写得最长的一篇教程。我想将我搭建独立博客的过程在一篇文章中尽可能详细地写出来，希望能给后来者一个明确的指引，同时用这篇教程开篇，正式开始我的第八大洲之旅。
@@ -399,6 +399,13 @@ blog.io 仓库已经自带两篇文章模板，按照模板修改即可。
 ## 更新个人博客信息配置
 
 自己把 blog.io 中文件都点开看一遍，主要配置文件是 _config.yml ，推荐使用 sublime 打开。
+
+修订清单如下，文档内有详细注释，可按注释逐个修订
+
+* 博客名字及作者信息：_config.yml 
+* 个人介绍页面：about.md
+* 代表作页面：milestone.md
+* 文章模板：blog.io/_posts/2015-03-02-how-to-write.md 
 
 
 ## 404页面
