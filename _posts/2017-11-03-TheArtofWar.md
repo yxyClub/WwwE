@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 孙子兵法》的核心：善用失败思维，发现成功真相
+title: 《孙子兵法》的核心：善用失败思维，发现成功真相
 date: 2017-11-03
 categories: blog
 tags: [孙子兵法,成功]
