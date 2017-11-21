@@ -1,8 +1,8 @@
 # Site settings
-title: 读立写生
+title: 笨方法学写作
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "陈素封|笨方法学写作"  
 baseurl: ""
 url: "http://www.cnfeat.com"  
 
@@ -10,7 +10,7 @@ url: "http://www.cnfeat.com"
 owner: 
   name: " CNFeat"
   email: CNFeat@gmail.com
-  bio: "每天写1000字改变自己"
+  bio: "笨方法学写作"
 
 # Data
 gavatar: http://openmindclub.qiniudn.com/omt/favicon.png
