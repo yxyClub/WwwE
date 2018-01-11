@@ -1,16 +1,16 @@
 # Site settings
-title: 笨方法学写作
+title: 小焱作品
 header-img: "img/Xacebook.jpg"
-tagline: "cn"  
-description: "陈素封|笨方法学写作"  
+tagline: "cn"
+description: "于小焱|小焱作品"
 baseurl: ""
-url: "http://www.cnfeat.com"  
+url: "http://www.xiaoyan.work"
 
 # About/contact
-owner: 
-  name: " CNFeat"
-  email: CNFeat@gmail.com
-  bio: "笨方法学写作"
+owner:
+  name: " xiaoyanwork"
+  email: www.xiaoyan.work@qq.com
+  bio: "小焱作品"
 
 # Data
 gavatar: http://openmindclub.qiniudn.com/omt/favicon.png
@@ -19,13 +19,13 @@ favicon: img/favicon.ico
 douban_username:  cnfeat
 twitter_username: feat
 github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
+facebook_username:
+weibo_username: cnfeat
 zhihu_username: feat
 
-# Build settings  
-# use Github Flavored Markdown !important  
-# document: http://jekyllrb.com/docs/configuration/#kramdown  
+# Build settings
+# use Github Flavored Markdown !important
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
@@ -37,7 +37,7 @@ timezone: Asia/Shanghai
 
 # Defaults for posts
 defaults:
-    scope: 
+    scope:
       path: ""
       type: "posts"
     values:
@@ -45,7 +45,7 @@ defaults:
       author: "CNFeat"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
-# Comments 
+# Comments
 comments :
   provider : disqus
   duoshuo :
