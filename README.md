@@ -1,10 +1,10 @@
 ## 说明
 
-此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
+此博客 fork 自 [Azeril](http://azeril.me/)& 陈素封 ，深表感谢。
 
-## 读立写生
+## 小焱作品
 
-我是陈素封，博客：[cnfeat.com](cnfeat.com)
+我是小焱，博客：[xiaoyan.work](xiaoyan.work)
 
 每天千字践行者，践行时间：2014年02月10日至2014年02月23日，感谢这段经历，让我成为了现在的我。
 
@@ -24,7 +24,7 @@
 
 
 
-- 20160719 
+- 20160719
 	+ 改动网页文字宽度
 		+ post.html 39
 		+ col-lg-7 col-lg-offset-3 col-md-8 col-md-offset-2 post-container
@@ -37,6 +37,3 @@
 	* 缩短首页摘要为 70 字
 	* 多说替换成 disqus
 	* 置换字体
-
-
-
