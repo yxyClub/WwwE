@@ -67,7 +67,7 @@ description: 2014年8月19日，我从东莞来到珠海，到今天2014年8月2
 
 ----
 
-点击「阅读原文」查看[历史文章存档](http://cnfeat.com)。
+点击「阅读原文」查看[历史文章存档](http://xiaoyan.work)。
 
 ![](http://cnfeat.qiniudn.com/mHDSX.png)
 

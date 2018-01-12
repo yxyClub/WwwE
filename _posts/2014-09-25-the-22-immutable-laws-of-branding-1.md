@@ -67,7 +67,7 @@ description: 企业品牌我现在暂时没办法做，我能做的就是自己�
 
 （题图：SBS Store byAndré Chantre）
 
-点击「阅读原文」到我的博客查看[历史文章存档](http://cnfeat.com)。
+点击「阅读原文」到我的博客查看[历史文章存档](http://xiaoyan.work)。
 
 ![](http://cnfeat.qiniudn.com/signitrue-2014-09-24.jpg)
 

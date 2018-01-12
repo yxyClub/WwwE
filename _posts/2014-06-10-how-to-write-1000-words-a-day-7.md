@@ -50,7 +50,7 @@ description: 我喜欢别人喜欢我的文章，我喜欢我的文章有很多�
 
 回复「群规」关键字，获得群规。
 
-点击「阅读原文」看[「我的博客」](http://cnfeat.com)
+点击「阅读原文」看[「我的博客」](http://xiaoyan.work)
 
 ![](http://pic.yupoo.com/vankos_v/DMJgUjgl/8Rvrt.png)
 **【一期一会】**

@@ -66,7 +66,7 @@ description: 你们手上的都是kindle，而我手上的却是nook2。
 
 （题图：Climbing by Yusri Harisandi）
 
-点击「阅读原文」到我的博客查看[历史文章存档](http://cnfeat.com)。
+点击「阅读原文」到我的博客查看[历史文章存档](http://xiaoyan.work)。
 
 ![](http://cnfeat.qiniudn.com/mHDSX.png)
 

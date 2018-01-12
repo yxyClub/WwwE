@@ -50,7 +50,7 @@ description: 你们不要处在一个你们表现得越愚蠢或者越糟糕，�
 
 （题图：海 by 阿男）
 
-点击「阅读原文」到我的博客查看[历史文章存档](http://cnfeat.com)。
+点击「阅读原文」到我的博客查看[历史文章存档](http://xiaoyan.work)。
 
 ![](http://cnfeat.qiniudn.com/signitrue-2014-11-15.jpg)
 

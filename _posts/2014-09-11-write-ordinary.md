@@ -28,7 +28,7 @@ description: 在回家的路上看到了一本书，这本书让我决定以此�
 
 ----
 
-点击「阅读原文」到我的博客查看[历史文章存档](http://cnfeat.com)。
+点击「阅读原文」到我的博客查看[历史文章存档](http://xiaoyan.work)。
 
 ![](http://cnfeat.qiniudn.com/mHDSX.png)
 

@@ -56,7 +56,7 @@ description: 其实你想说的东西也没有想象中重要。
 
 （题图：Show Time by Hasan Baglar）
 
-点击「阅读原文」到我的博客查看[历史文章存档](http://cnfeat.com)。
+点击「阅读原文」到我的博客查看[历史文章存档](http://xiaoyan.work)。
 
 ![](http://cnfeat.qiniudn.com/signitrue-2014-09-28.jpg)
 

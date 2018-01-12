@@ -85,7 +85,7 @@ description: 能比武招亲的都是奇女子。题图：天下第一武道会�
 
 - 陈素封
 - 公众号：cnfeat
-- Blog：cnfeat.com
+- Blog：xiaoyan.work
 
 （题图：龙珠）
 

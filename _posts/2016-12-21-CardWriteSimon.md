@@ -47,7 +47,7 @@ description: 第一代人工智能机器用人工的智能实现人工智能，�
 
 ![](http://openmindclub.qiniudn.com/omt/CardWriting03.jpg)
 
-###  本文使用[卡片创作法](http://cnfeat.com/blog/2016/11/20/NabokovWriteStyle/)写成
+###  本文使用[卡片创作法](http://xiaoyan.work/blog/2016/11/20/NabokovWriteStyle/)写成
 
 ### 六经注我
 

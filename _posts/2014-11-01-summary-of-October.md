@@ -100,7 +100,7 @@ description: 十月总结无论怎么看都看似有点匆忙了。
 
 （题图：Little sleepers by Miroslav Hlavko）
 
-点击「阅读原文」到我的博客查看[历史文章存档](http://cnfeat.com)。
+点击「阅读原文」到我的博客查看[历史文章存档](http://xiaoyan.work)。
 
 ![](http://cnfeat.qiniudn.com/signitrue-2014-09-28.jpg)
 

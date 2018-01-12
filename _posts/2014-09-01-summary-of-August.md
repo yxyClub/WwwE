@@ -148,7 +148,7 @@ P.S.如果你想问我为什么要去珠海，请翻阅上个月的总结。
 
 ----
 
-点击「阅读原文」到我的博客查看[历史文章存档](http://cnfeat.com)。
+点击「阅读原文」到我的博客查看[历史文章存档](http://xiaoyan.work)。
 
 ![](http://cnfeat.qiniudn.com/mHDSX.png)
 

@@ -67,7 +67,7 @@ description: 雕爷批评的就是这一类的小米脑残粉——将性价比�
 
 ----
 
-P.S.我将[《雕爷微博观察》](http://t.cn/RzuZVkU)放在了博客：cnfeat.com。
+P.S.我将[《雕爷微博观察》](http://t.cn/RzuZVkU)放在了博客：xiaoyan.work。
 
 懒人回复「微博」可见
 

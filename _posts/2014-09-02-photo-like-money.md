@@ -76,7 +76,7 @@ P.S.珠海旅游摄影协会旁边的珠海观鸟协会冷冷清清，我好想�
 
 ----
 
-点击「阅读原文」到我的博客查看[历史文章存档](http://cnfeat.com)。
+点击「阅读原文」到我的博客查看[历史文章存档](http://xiaoyan.work)。
 
 ![](http://cnfeat.qiniudn.com/mHDSX.png)
 

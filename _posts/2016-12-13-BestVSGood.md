@@ -87,7 +87,7 @@ description: 你只需做一小部分有价值的事情就可以改变现状。
 
 
 
-###  本文使用[卡片创作法](http://cnfeat.com/blog/2016/11/20/NabokovWriteStyle/)写成
+###  本文使用[卡片创作法](http://xiaoyan.work/blog/2016/11/20/NabokovWriteStyle/)写成
 
 ![](http://openmindclub.qiniudn.com/omt/CardWriting01.jpg)
 

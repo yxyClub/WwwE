@@ -92,7 +92,7 @@ RSS源或者高价值博客推荐，选择原则：（1）新文章好；（2）
 - 17、[海德沙龙](http://headsalon.org/)
 - 18、[人月神话](http://blog.sina.com.cn/cmmi)
 
-最后自荐一个：[千字文练习地](http://cnfeat.com)
+最后自荐一个：[千字文练习地](http://xiaoyan.work)
 
 ### 网页
 

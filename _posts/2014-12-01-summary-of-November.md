@@ -33,23 +33,23 @@ description: 转眼间，时间那个去，十一月已经过去，整个2014年
 
 ###《乡土中国》的读后感，总共有六篇
 
-[《乡土中国》：费孝通的冰山一角](http://cnfeat.com/2014/10/20/2014-10-20-from-the-soil-1/)
+[《乡土中国》：费孝通的冰山一角](http://xiaoyan.work/2014/10/20/2014-10-20-from-the-soil-1/)
 
-[《教育者的责任》](http://cnfeat.com/2014/10/21/2014-10-21-from-the-soil-education/)
+[《教育者的责任》](http://xiaoyan.work/2014/10/21/2014-10-21-from-the-soil-education/)
 
-[《信任原本是一种规矩》](http://cnfeat.com/2014/10/23/2014-10-23-from-the-soil-credit/)
+[《信任原本是一种规矩》](http://xiaoyan.work/2014/10/23/2014-10-23-from-the-soil-credit/)
 
-[《学习的本来含义》](http://cnfeat.com/2014/10/25/2014-10-25-from-the-soil-learning/)
+[《学习的本来含义》](http://xiaoyan.work/2014/10/25/2014-10-25-from-the-soil-learning/)
 
-[《你说人蠢，其实可能就是你自己蠢》](http://cnfeat.com/2014/10/26/2014-10-26-stupid/)
+[《你说人蠢，其实可能就是你自己蠢》](http://xiaoyan.work/2014/10/26/2014-10-26-stupid/)
 
-[《答我心中问——《乡土中国》杂记与思考》](http://cnfeat.com/2014/10/27/2014-10-27-how-to-use-words/)
+[《答我心中问——《乡土中国》杂记与思考》](http://xiaoyan.work/2014/10/27/2014-10-27-how-to-use-words/)
 
 ###《穷查理宝典》的笔记更加多，总共有15篇
 
 这本书是我专门为学习理财知识去看的，没想到理财的知识没有学多少，反而知道了更多无法通过理财书而获得的思想。
 
-以下是我写《穷查理宝典》的笔记：http://cnfeat.com/tags/%E7%A9%B7%E6%9F%A5%E7%90%86%E5%AE%9D%E5%85%B8/
+以下是我写《穷查理宝典》的笔记：http://xiaoyan.work/tags/%E7%A9%B7%E6%9F%A5%E7%90%86%E5%AE%9D%E5%85%B8/
 
 ####12月书单
 

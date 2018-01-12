@@ -93,10 +93,10 @@ description: 到现在，我还在每日练习千字文，但写作之认知已�
 
 ## 相关链接
 
-* [卡片创作法之纳博科夫](http://www.cnfeat.com/blog/2016/11/20/NabokovWriteStyle/)
-* [如何正确练习写作](http://www.cnfeat.com/blog/2015/03/02/how-to-write/)
-* [抵达智慧流淌之地](http://www.cnfeat.com/blog/2016/04/05/find-paper/)
-* [马特焕新行动](http://www.cnfeat.com/blog/2015/06/30/Matt/)
+* [卡片创作法之纳博科夫](http://www.xiaoyan.work/blog/2016/11/20/NabokovWriteStyle/)
+* [如何正确练习写作](http://www.xiaoyan.work/blog/2015/03/02/how-to-write/)
+* [抵达智慧流淌之地](http://www.xiaoyan.work/blog/2016/04/05/find-paper/)
+* [马特焕新行动](http://www.xiaoyan.work/blog/2015/06/30/Matt/)
 * [Gitbook 认知写作学二期课程思维导图](https://cnfeat.gitbooks.io/metawrite/content/)
 * [我的师承](https://zhuanlan.zhihu.com/p/19777546)
 

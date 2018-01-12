@@ -43,7 +43,7 @@ description: 想不到我将菜市场见闻录写到三了，以后估计还有�
 
 如果你从此文得到收获，请订阅微信公众号「cnfeat」，可能你会获得更多。
 
-点击「阅读原文」到我的博客查看[历史文章存档](http://cnfeat.com)。
+点击「阅读原文」到我的博客查看[历史文章存档](http://xiaoyan.work)。
 
 ![](http://cnfeat.qiniudn.com/signitrue-2014-09-22.png)
 

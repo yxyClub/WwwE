@@ -38,7 +38,7 @@ Paul Graham的意思大概有以下的四层：
 
 （题图：grrr rain... by Mark Bridger）
 
-点击「阅读原文」到我的博客查看[历史文章存档](http://cnfeat.com)。
+点击「阅读原文」到我的博客查看[历史文章存档](http://xiaoyan.work)。
 
 ![](http://cnfeat.qiniudn.com/signitrue-2014-09-28.jpg)
 

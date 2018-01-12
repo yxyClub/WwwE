@@ -69,7 +69,7 @@ description: 主题写作更有利于持续写作，好处就是确定一个大�
 
 关注公众号后回复「群规」关键字，获得群规。
 
-点击「阅读原文」看[「我的博客」](http://cnfeat.com)
+点击「阅读原文」看[「我的博客」](http://xiaoyan.work)
 
 ![](http://pic.yupoo.com/vankos_v/DOMQ5v84/HtU20.png)
 **【一期一会】**

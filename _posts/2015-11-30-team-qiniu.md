@@ -14,9 +14,9 @@ description: 继续折腾，七牛云。
 
 ## 背景
 
-[如何使用七牛云做为图床？ - 读立写生](http://cnfeat.com/blog/2015/11/30/cli-qiniu/)
+[如何使用七牛云做为图床？ - 读立写生](http://xiaoyan.work/blog/2015/11/30/cli-qiniu/)
 
-[如何为七牛云生成索引目录？ - 读立写生](http://cnfeat.com/blog/2015/12/02/index-qiniu/)
+[如何为七牛云生成索引目录？ - 读立写生](http://xiaoyan.work/blog/2015/12/02/index-qiniu/)
 
 如上，已经搞掂
 
@@ -130,7 +130,7 @@ Users/cnfeat/Documents/qrsync/
 
 - 陈素封
 - 公众号：cnfeat
-- Blog：cnfeat.com
+- Blog：xiaoyan.work
 
 
 

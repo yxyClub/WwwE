@@ -43,6 +43,6 @@ description: 你只需做一小部分有价值的事情就可以改变现状。
 
 - 陈素封
 - 公众号：cnfeat
-- Blog：cnfeat.com
+- Blog：xiaoyan.work
 
 （题图：七龙珠）

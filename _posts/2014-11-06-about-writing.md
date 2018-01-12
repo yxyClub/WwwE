@@ -64,7 +64,7 @@ MarkdownPad 2，离线，支持Markdown。
 
 2014年3月4日在简书写第一篇文章《个人知识管理的方法》。
 
-2014年5月1日建立个人独立博客（cnfeat.com），记录了自己写千字文的[历程和经验](http://cnfeat.com/categories/%E5%8D%83%E5%AD%97%E6%96%87%E4%B8%8E%E5%86%99%E4%BD%9C/)。
+2014年5月1日建立个人独立博客（xiaoyan.work），记录了自己写千字文的[历程和经验](http://xiaoyan.work/categories/%E5%8D%83%E5%AD%97%E6%96%87%E4%B8%8E%E5%86%99%E4%BD%9C/)。
 
 2014年6月1日在简书建立「每天写一千字改变自己」专题。
 

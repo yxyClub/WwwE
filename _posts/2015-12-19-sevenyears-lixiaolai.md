@@ -86,7 +86,7 @@ description: 任何事情都有方法论，包括烤羊腿。题图：《把时�
 
 - 陈素封
 - 公众号：cnfeat
-- Blog：cnfeat.com
+- Blog：xiaoyan.work
 
 题图：《把时间当做朋友》七年读者见面会
 

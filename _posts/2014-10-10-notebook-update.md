@@ -95,7 +95,7 @@ P.S.这个系统有4.63G，是传说中的纯净完整版。
 
 （题图：October 2014 Blood Moon by Mike Mezeul II）
 
-点击「阅读原文」到我的博客查看[历史文章存档](http://cnfeat.com)。
+点击「阅读原文」到我的博客查看[历史文章存档](http://xiaoyan.work)。
 
 ![](http://cnfeat.qiniudn.com/signitrue-2014-09-28.jpg)
 

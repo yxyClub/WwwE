@@ -15,7 +15,7 @@ description: 继续折腾，七牛云。
 
 ## 背景
 
-前一篇的 [如何使用七牛云做为图床？ - 读立写生](http://cnfeat.com/blog/2015/11/24/qiniu/)
+前一篇的 [如何使用七牛云做为图床？ - 读立写生](http://xiaoyan.work/blog/2015/11/24/qiniu/)
 
 想必都已经能用 命令行 上传图片了。
 
@@ -150,7 +150,7 @@ python gen4idx.py /path/2/gen /path/2/foot.html[模板] excludePath
 	+ 终端 输入 `python gen4idx.py ./ footer-7niu.html NULL`
 - 运行 七牛同步命令行 将 `index.html` 上传至 七牛云
 	+ 终端 输入 `qrsync /Users/cnfeat/7niu/cnfeat.json`
-	+ [如何使用七牛云做为图床？ - 读立写生](http://cnfeat.com/blog/2015/11/24/qiniu/)
+	+ [如何使用七牛云做为图床？ - 读立写生](http://xiaoyan.work/blog/2015/11/24/qiniu/)
 - 验证
 	+ 打开 `http://cnfeat.qiniudn.com/` 发现页面如下，证明`index.html`生成并渲染成功
 
@@ -214,7 +214,7 @@ Forrest 回答：「You are my girl.」
 
 - 陈素封
 - 公众号：cnfeat
-- Blog：cnfeat.com
+- Blog：xiaoyan.work
 
 （题图：七牛云存储）
 

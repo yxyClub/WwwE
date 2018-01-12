@@ -100,7 +100,7 @@ RSS源或者高价值博客推荐，选择原则：（1）新文章好；（2）
 - 17、[海德沙龙](http://headsalon.org/)
 - 18、[人月神话](http://blog.sina.com.cn/cmmi)
 
-最后自荐一个：[千字文练习地](http://cnfeat.com)
+最后自荐一个：[千字文练习地](http://xiaoyan.work)
 
 ###网页
 
@@ -381,7 +381,7 @@ RSS源或者高价值博客推荐，选择原则：（1）新文章好；（2）
 ![](http://pic.yupoo.com/vankos_v/DISOeR5b/3PJ3R.png)
 **【一期一会】**
 
-如果你们觉得在微信看实在太累，可以上我的博客看，博客地址：cnfeat.com
+如果你们觉得在微信看实在太累，可以上我的博客看，博客地址：xiaoyan.work
 
 
 

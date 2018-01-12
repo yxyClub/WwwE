@@ -131,7 +131,7 @@ description: 十年，十年，人生有几多个十年。十年后，我得见�
 
 - 陈素封
 - 公众号：cnfeat
-- Blog：cnfeat.com
+- Blog：xiaoyan.work
 
 （题图：七龙珠）
 

@@ -117,7 +117,7 @@ description: 双十一教人如何花钱，现在是时候让芒格教你如何�
 
 （题图：Rich by ivocristallo）
 
-点击「阅读原文」到我的博客查看[历史文章存档](http://cnfeat.com)。
+点击「阅读原文」到我的博客查看[历史文章存档](http://xiaoyan.work)。
 
 ![](http://cnfeat.qiniudn.com/signitrue-2014-09-28.jpg)
 

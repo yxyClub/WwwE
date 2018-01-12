@@ -67,7 +67,7 @@ description: 你只需做一小部分有价值的事情就可以改变现状。
 ### 参考文章」
 
 * [此身 此时 此地](http://blog.sina.com.cn/s/blog_48b0d37b0100nmf3.html)
-* [卡片创作法之王云五 - 读立写生](http://www.cnfeat.com/blog/2017/08/08/WangYunWuCardWrite/)
+* [卡片创作法之王云五 - 读立写生](http://www.xiaoyan.work/blog/2017/08/08/WangYunWuCardWrite/)
 * [我怎样读书 (豆瓣)](https://book.douban.com/subject/1065165/)
 
 

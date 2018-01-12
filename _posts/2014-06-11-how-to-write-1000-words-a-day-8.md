@@ -78,7 +78,7 @@ description: 这有可能是本系列文章的最后一篇，对写千字文的�
 
 回复「群规」关键字，获得群规。
 
-点击「阅读原文」看[「我的博客」](http://cnfeat.com)
+点击「阅读原文」看[「我的博客」](http://xiaoyan.work)
 
 ![](http://pic.yupoo.com/vankos_v/DMJgUjgl/8Rvrt.png)
 **【一期一会】**

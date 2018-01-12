@@ -71,4 +71,4 @@ description: 作为一种拥有语言天赋的社会动物，人类天生就有�
 
 （题图：Untitled by -LENS-）
 
-点击「阅读原文」到我的博客查看[历史文章存档](http://cnfeat.com)。
+点击「阅读原文」到我的博客查看[历史文章存档](http://xiaoyan.work)。

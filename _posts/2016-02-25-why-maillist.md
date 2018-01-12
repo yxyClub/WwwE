@@ -47,7 +47,7 @@ description: 愿这份通讯能让你心目中对世界的的基本假设稍微�
 	+ 属于输出界面
 	+ 偏向于原创，风格偏严谨
 	+ 更新频率较低
-	+ 发布平台：cnfeat.com
+	+ 发布平台：xiaoyan.work
 - 邮件通讯
 	+ 属于输入界面
 	+ 是文章推荐的集合，个人学习材料的汇总入口，风格偏轻松
@@ -78,7 +78,7 @@ description: 愿这份通讯能让你心目中对世界的的基本假设稍微�
 
 - 陈素封
 - 公众号：cnfeat
-- Blog：cnfeat.com
+- Blog：xiaoyan.work
 - 元认知学习博客：mesule.com
 - 元认知学习订阅：tinyletter.com/cnfeat
 

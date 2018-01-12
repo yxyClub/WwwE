@@ -52,7 +52,7 @@ description: 素封，无官爵封邑而富比封君的人。《史记·货殖�
 
 （题图：sweet. by Kay Yen）
 
-点击「阅读原文」到我的博客查看[历史文章存档](http://cnfeat.com)。
+点击「阅读原文」到我的博客查看[历史文章存档](http://xiaoyan.work)。
 
 ![](http://cnfeat.qiniudn.com/signitrue-2014-09-24.jpg)
 

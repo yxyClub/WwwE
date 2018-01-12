@@ -127,7 +127,7 @@ Ford 力排众议，不惜一切代价开拓新故事线，他相信新的故事
 
 ![](http://openmindclub.qiniudn.com/omt/CardWriting.jpg)
 
-*本文使用[卡片创作法](http://cnfeat.com/blog/2016/11/20/NabokovWriteStyle/)写成*
+*本文使用[卡片创作法](http://xiaoyan.work/blog/2016/11/20/NabokovWriteStyle/)写成*
 
 
 

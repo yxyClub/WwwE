@@ -59,7 +59,7 @@ description: 很多决定其实都是在一刹那做出的，为什么呢？大�
 
 ----
 
-点击「阅读原文」到我的博客查看[历史文章存档](http://cnfeat.com)。
+点击「阅读原文」到我的博客查看[历史文章存档](http://xiaoyan.work)。
 
 ![](http://cnfeat.qiniudn.com/mHDSX.png)
 

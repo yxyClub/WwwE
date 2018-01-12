@@ -127,7 +127,7 @@ description: 我只作过极少的决定。使我走上我所走过的特定道�
 - 2016-11-21 拟定框架
 
 
-*本文使用[卡片创作法](http://cnfeat.com/blog/2016/11/20/NabokovWriteStyle/)写成*
+*本文使用[卡片创作法](http://xiaoyan.work/blog/2016/11/20/NabokovWriteStyle/)写成*
 
 ![](http://openmindclub.qiniudn.com/omt/NabokovWriteStyle01.jpg)
 

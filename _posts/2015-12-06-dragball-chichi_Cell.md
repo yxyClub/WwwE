@@ -109,7 +109,7 @@ description: 久违了，各位，连载继续。
 
 - 陈素封
 - 公众号：cnfeat
-- Blog：cnfeat.com
+- Blog：xiaoyan.work
 
 （题图：七龙珠）
 
