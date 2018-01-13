@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About|关于"
-description: "用作品向此生致敬。Pay Tribute to Life."
+description: "用作品向此生致敬 Pay Tribute to Life"
 header-img: "img/green.jpg"
 ---
 
@@ -12,6 +12,12 @@ header-img: "img/green.jpg"
 
 我是小焱，持续写作者，终身学习者，我的产品列表如下：
 
+## 心智起源：测试
+
+- 这里是测试新增加的内容。
+> 这里也是新增加的内容
+
+这里也是新增加的内容。
 
 ## 知识星球：笨方法学写作
 
