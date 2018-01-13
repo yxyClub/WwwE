@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
-description: "学苟知本，六经皆我注脚 "
+title: "About|关于"
+description: "用作品向此生致敬。Pay Tribute to Life with My Works."
 header-img: "img/green.jpg"
 ---
 
