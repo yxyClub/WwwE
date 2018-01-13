@@ -1,8 +1,8 @@
 # Site settings
-title: 小焱作品
+title: 小焱•作品（题目）
 header-img: "img/Xacebook.jpg"
 tagline: "cn"
-description: "于小焱|小焱作品"
+description: "于小焱|小焱•作品(描述)"
 baseurl: ""
 url: "http://www.xiaoyan.work"
 
@@ -10,7 +10,7 @@ url: "http://www.xiaoyan.work"
 owner:
   name: " xiaoyanwork"
   email: www.xiaoyan.work@qq.com
-  bio: "小焱作品"
+  bio: "小焱•作品（bio）"
 
 # Data
 gavatar: http://openmindclub.qiniudn.com/omt/favicon.png
@@ -54,7 +54,7 @@ comments :
       short_name : cnfeat
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-80884545-1
+google_analytics: UA-80884545-1++++++【+后面的曲调】
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:

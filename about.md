@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
     <p><img src="http://openmindclub.qiniudn.com/omt/WhiteAvatar.jpg" align="center"></p>
 </center>
 
-我是陈素封，持续写作者，终身学习者，我的产品列表如下：
+我是小焱，持续写作者，终身学习者，我的产品列表如下：
 
 
 ## 知识星球：笨方法学写作
@@ -22,7 +22,7 @@ header-img: "img/green.jpg"
 《笨方法学写作》精心设计 52 个写作刻意练习，以练带学，每周发布 3~5 个练习，内附习题讲解与参考答案，结合认知科学原理，实践卡片创作法，完全适配新手的练习计划。
 
 来吧，践行 52 个刻意练习，这一次彻底学会写作！
- 
+
 课程官网：http://www.LearnWritingTheHardWay.cn
 
 地址：[http://t.xiaomiquan.com/ufe23vv](http://t.xiaomiquan.com/ufe23vv)
@@ -36,7 +36,7 @@ header-img: "img/green.jpg"
 
 免费，每月至少更新 2 篇。
 
-地址：[www.xiaoyan.work](http://www.xiaoyan.work) 
+地址：[www.xiaoyan.work](http://www.xiaoyan.work)
 
 
 ## 邮件列表：卡片创作通讯
