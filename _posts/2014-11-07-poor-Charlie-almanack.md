@@ -43,7 +43,7 @@ description: 芒格说，我想那些认为我是沃伦巴菲特的伟大启蒙�
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 （题图：Tug of War ! The family way by Dean Mason）
 

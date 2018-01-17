@@ -99,7 +99,7 @@ description: 总结就是总结，无论你做了什么都要写下来，这就�
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 （题图：Happy by rarindra prakarsa）
 

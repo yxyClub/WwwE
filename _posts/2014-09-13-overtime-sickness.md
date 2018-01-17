@@ -45,7 +45,7 @@ description: 如果你觉得我在骂前公司，不要怀疑，你的感觉是�
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，可能你会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，可能你会获得更多。
 
 （题图：Climbing by Yusri Harisandi）
 

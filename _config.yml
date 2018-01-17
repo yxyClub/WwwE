@@ -16,12 +16,12 @@ owner:
 gavatar: http://openmindclub.qiniudn.com/omt/favicon.png
 favicon: img/favicon.ico
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
+douban_username:  cnfeatYYY
+twitter_username: featYYY
+github_username: xiaoyanwork
 facebook_username:
-weibo_username: cnfeat
-zhihu_username: feat
+weibo_username: cnfeatYYY
+zhihu_username: featYYY
 
 # Build settings
 # use Github Flavored Markdown !important
@@ -42,16 +42,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CNFeat"
+      author: "CNFeatYYY"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments
 comments :
   provider : disqus
   duoshuo :
-    short_name : cnfeat
+    short_name : cnfeatYYY
   disqus :
-      short_name : cnfeat
+      short_name : cnfeatYYY
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-808845-1++++++【+后面的曲调】

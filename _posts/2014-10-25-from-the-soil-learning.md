@@ -45,7 +45,7 @@ http://xiaoyan.work/2014/05/10/2014-05-10-practice-important/
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 （题图：DEWS & DEWS by Yudy Sauw）
 

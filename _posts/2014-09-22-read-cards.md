@@ -62,7 +62,7 @@ description: 自己动手做一样东西是蛮有成就感的，尤其是当自�
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，可能你会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，可能你会获得更多。
 
 （题图：Climbing by Yusri Harisandi）
 

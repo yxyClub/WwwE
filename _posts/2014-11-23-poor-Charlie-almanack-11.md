@@ -79,7 +79,7 @@ description: 芒格喜欢把人们的观念和方法比为「工具」。如果�
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 ![](http://cnfeat.qiniudn.com/signitrue-2014-11-15.jpg)
 

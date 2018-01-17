@@ -49,7 +49,7 @@ description: 本文是《哈佛商业评论》创刊以来重印次数最多的�
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 （题图：Teenage Confidence by Mike Smith）
 

@@ -49,7 +49,7 @@ description: 对于个人品牌，我能做的只是做好知识工人，读好�
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 （题图：Three Kings by Vince Burton）
 

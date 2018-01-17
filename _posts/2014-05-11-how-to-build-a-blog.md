@@ -469,7 +469,7 @@ GitHub Pages有提供制作404页面的指引：[Custom 404 Pages](https://help.
 
 这里有我的个人简介：[关于我](http://xiaoyan.work/about/)
 
-如果你想看到我最新的文章，可以关注我的微信公众号「cnfeat」。
+如果你想看到我最新的文章，可以关注我的微信公众号「cnfeatYYY」。
 
 
 ### ChangeLog

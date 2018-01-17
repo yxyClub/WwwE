@@ -52,7 +52,7 @@ description: 其实你想说的东西也没有想象中重要。
 
 ---
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 （题图：Show Time by Hasan Baglar）
 

@@ -34,7 +34,7 @@ Paul Graham的意思大概有以下的四层：
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 （题图：grrr rain... by Mark Bridger）
 

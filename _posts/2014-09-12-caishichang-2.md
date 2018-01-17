@@ -31,7 +31,7 @@ description: 其实我逛菜市场的次数还是挺多的，这次买的是鸡�
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，可能你会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，可能你会获得更多。
 
 （题图：Climbing by Yusri Harisandi）
 

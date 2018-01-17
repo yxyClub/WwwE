@@ -39,7 +39,7 @@ description: 心目中有个「读者观念」，它比我高明十倍，我抱�
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 （题图：Spikey The Hedgehog by Edwin Kats）
 

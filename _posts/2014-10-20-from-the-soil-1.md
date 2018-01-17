@@ -37,7 +37,7 @@ description: 不要以为这是一本介绍中国风俗人情的无聊读物，�
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 （题图：Ploughing by Desmond Chui）
 

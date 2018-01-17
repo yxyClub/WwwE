@@ -98,7 +98,7 @@ P.S.我将[《雕爷微博观察》](http://t.cn/RzuZVkU)放在了博客：xiaoy
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 ![](http://7d9mjz.com1.z0.glb.clouddn.com/2014-12-15.jpg)
 

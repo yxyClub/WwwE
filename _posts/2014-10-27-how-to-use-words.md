@@ -43,7 +43,7 @@ description: 读好书的好处之一就是你读着读着就会发现原来长�
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 （题图：Ksenia by Maxim Guselnikov）
 

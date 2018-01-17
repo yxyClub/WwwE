@@ -41,7 +41,7 @@ description: 浅浅的知识比无知更使人栗六不安，深深的知识使�
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 （题图：Sunset over Stockholm by Olga Galkina）
 

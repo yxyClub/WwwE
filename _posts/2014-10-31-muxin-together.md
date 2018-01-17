@@ -37,7 +37,7 @@ description: 不管是甜蜜还是苦涩，能够调和这一切的就是咸。�
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 （题图：spices by Juliya Perepelitsyna）
 

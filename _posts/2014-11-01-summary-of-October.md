@@ -96,7 +96,7 @@ description: 十月总结无论怎么看都看似有点匆忙了。
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 （题图：Little sleepers by Miroslav Hlavko）
 

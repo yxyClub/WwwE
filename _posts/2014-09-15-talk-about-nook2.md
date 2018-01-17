@@ -62,7 +62,7 @@ description: 你们手上的都是kindle，而我手上的却是nook2。
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，可能你会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，可能你会获得更多。
 
 （题图：Climbing by Yusri Harisandi）
 

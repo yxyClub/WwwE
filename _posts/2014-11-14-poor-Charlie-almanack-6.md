@@ -75,7 +75,7 @@ description: 在知乎看到一个问题：有没有值得每天一上的网站�
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 （题图：Beautiful Lady by DamPhotography）
 

@@ -42,7 +42,7 @@ description: 读完这本《鱼丽之宴》，我还是得想看看木心的其�
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 （题图：Ksenia. Art monday by Roman Sinichkin）
 

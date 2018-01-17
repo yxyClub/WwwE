@@ -27,7 +27,7 @@ description: 作家韩寒曾吃过不懂商业的亏。2007年，因合同争议
 
 ----
 
-如果你从此文得到收获，请订阅微信公众号「cnfeat」，你一定会获得更多。
+如果你从此文得到收获，请订阅微信公众号「cnfeatYYY」，你一定会获得更多。
 
 （题图：Internation Coins by Shahram Mirkhani）
 
