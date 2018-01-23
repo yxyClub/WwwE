@@ -1,13 +1,3 @@
----
-layout: post
-title: 海盗：这是我的第一篇小说
-date: 2017-03-24
-categories: blog
-tags: [海盗,写作]
-description: 冰龙号考察船遇到了海岛。
----
-
-
 ## 海盗
 
 
