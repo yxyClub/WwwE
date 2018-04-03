@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 千字文的开始
+title: 千字文的开始[文章模板]
 date: 2014-02-10
 categories: blog
 tags: [书写,思考]
