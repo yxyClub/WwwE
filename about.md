@@ -4,6 +4,9 @@ title: "About|关于"
 description: "用作品向此生致敬 Pay Tribute to Life"
 header-img: "img/green.jpg"
 ---
+<center>
+<p><img src="http://upload-images.jianshu.io/upload_images/3785456-9a028c21d4cbe1a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" align="center"></p>
+</center>
 
 > 我是小焱，持续写作者，终身学习者。自我介绍如下：
 
