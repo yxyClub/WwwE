@@ -5,13 +5,7 @@ description: "用作品向此生致敬 Pay Tribute to Life"
 header-img: "img/green.jpg"
 ---
 
-
-<center>
-    <p><img src="(http://upload-images.jianshu.io/upload_images/3785456-9a028c21d4cbe1a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)" align="center"></p>
-</center>
-
-
-我是小焱，持续写作者，终身学习者。自我介绍如下（暂时以2017年底写的工作总结充数）：
+> 我是小焱，持续写作者，终身学习者。自我介绍如下：
 
 ## 简历
 
@@ -80,7 +74,7 @@ header-img: "img/green.jpg"
 
 >发表论文19篇，其中第1作者12篇，第1作者核心期刊4篇.
 
-![论文查询地址：](http://xueshu.baidu.com/scholarID/CN-BQ735L8J)
+[论文查询地址：](http://xueshu.baidu.com/scholarID/CN-BQ735L8J)
 
 ### （四）科研项目
 
