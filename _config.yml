@@ -1,5 +1,5 @@
 # Site settings
-title: 小焱•作品
+title: 小焱
 header-img: "img/Xacebook.jpg"
 tagline: "cn"
 description: "于小焱|小焱的作品"
@@ -10,7 +10,7 @@ url: "http://www.xiaoyan.work"
 owner:
   name: "xiaoyanwork"
   email: www.xiaoyan.work@qq.com
-  bio: "小焱•作品（bio）"
+  bio: "小焱（bio）"
 
 # Data
 gavatar: http://openmindclub.qiniudn.com/omt/favicon.png

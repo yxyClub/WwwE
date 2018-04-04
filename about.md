@@ -131,6 +131,22 @@ header-img: "img/green.jpg"
 
 - 参加历次的实验室比对工作。包括能力验证和实验室审核。
 
+## 请喝咖啡
+
+有价值的事物，值得付出时间，也值得付出金钱。
+
+喜欢文章的朋友可以请我喝杯拿铁，😄。
+
+
+<center>
+    <p><img src="https://upload-images.jianshu.io/upload_images/3785456-94e4f86449a3cdf5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" align="center"></p>
+</center>
+
+<center>
+    <p><img src="https://upload-images.jianshu.io/upload_images/3785456-80661d7ea73d186b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" align="center"></p>
+</center>
+
+
 ### ChangeLog
 
 - 2018-01-23 ？创建。

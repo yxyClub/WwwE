@@ -90,16 +90,22 @@ header-img: "img/semantic.jpg"
 - [RSS 的生命力：分享100个订阅源](http://www.xiaoyan.work/blog/2016/01/29/100Subscription/)
 
 
-## 自愿付费
+
+## 请喝咖啡
 
 有价值的事物，值得付出时间，也值得付出金钱。
 
-喜欢文章的人可自愿付费，当然也可以不付费。
+喜欢文章的朋友可以请我喝杯拿铁，😄。
 
 
 <center>
-    <p><img src="http://openmindclub.qiniudn.com/omt/WechatPay02.jpg" align="center"></p>
+    <p><img src="https://upload-images.jianshu.io/upload_images/3785456-94e4f86449a3cdf5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" align="center"></p>
 </center>
+
+<center>
+    <p><img src="https://upload-images.jianshu.io/upload_images/3785456-80661d7ea73d186b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" align="center"></p>
+</center>
+
 
 
 ### ChangeLog
