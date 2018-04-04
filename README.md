@@ -2,7 +2,7 @@
 
 此博客 fork 自陈素封[cnfeat](http://cnfeat.com/) ，深表感谢,里面有写内容正在修改中，大部分作品不是我的，不过，我会慢慢进行修改。
 
-## 小焱拙作
+## 小焱作品
 
 我是小焱，博客：[xiaoyan.work](xiaoyan.work)
 
