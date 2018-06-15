@@ -3,7 +3,7 @@ layout: post
 title: Pyinstaller打包Python脚本递归错误等问题的解决方案
 date: 2018-06-15
 categories: blog
-tags: [Pyinstaller,递归错误,maximum recursion depth exceeded]
+tags: [Pyinstaller,递归错误,MaximumRecursionEepthExceeded]
 description: Pyinstaller打包成独立软件的时候“递归深度报错”，报错 “RecursionError: maximum recursion depth exceeded”解决方案。
 ---
 
@@ -34,12 +34,12 @@ description: Pyinstaller打包成独立软件的时候“递归深度报错”�
 难道是代码本身错误？但是 python 自己却认呢？Why 啊？
 抱着谨慎的态度，我以此检查数据类型，
 
-
+>
     for i in range (0,8):
-        d = solveset(TA0 + TA1 *x + TA2*(x **2) +TA3 *(x **3) - 1/(273.15+T[i]), x) # 核心计算公式。使用T[i]从T这个数组中按照索引取出数据。
+        d = solveset(TA0 + TA1*x + TA2*(x**2) +TA3*(x**3) - 1/(273.15+T[i]), x) # 核心计算公式。使用T[i]从T这个数组中按照索引取出数据。
         d1,d2,d3 = d # 将数组d进行切片。
         d1=float(d1)# 新增加20180612,将sympy 内嵌的float类型装换位通用的 float 类型。
-        N = 2.718281825 **d1 #转换出N值
+        N = 2.718281825**d1 #转换出N值
         print (round(N))# "N值为："
 
 
