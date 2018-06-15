@@ -7,8 +7,6 @@ tags: [Pyinstaller,递归错误,maximum recursion depth exceeded]
 description: Pyinstaller打包成独立软件的时候“递归深度报错”，报错 “RecursionError: maximum recursion depth exceeded”解决方案。
 ---
 
-# 使用Pyinstaller打包Python脚本出现递归错误等问题的总结
-
 ## 概述
 
 我用 python编写了一个小程序，用于解决以“解一元三次方程”为核心的问题。具体是在已经知道了一元三次方程的各个阶的系数值以及 y 值，求 x 值。写成的代码可以在 python 环境中运行，但是无法在没有安装 Python 解释器的电脑上运行。因此，我需要将py 文件打包成可执行文件（exe），以供没有安装 python 解释器的同事们来用。但是在生成 exe 的过程中遇到了若干问题，通过检索和综合别人的解决方案，最终解决了这些问题。
