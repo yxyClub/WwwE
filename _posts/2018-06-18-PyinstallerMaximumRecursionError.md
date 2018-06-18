@@ -1,12 +1,22 @@
 ---
 layout: post
-title: Pyinstaller 打包递归错误解决方案
-date: 2018-06-14
+title: 三好学生竞选稿2
+date: 2018-01-24
 categories: blog
-tags: [Pyinstaller,递归错误]
-description: Pyinstaller 打包成独立软件的时候“递归深度报错”——“RecursionError: maximum recursion depth exceeded” 解决方案。
+tags: [三好学生,竞选稿]
+description: 这是我帮儿子写的三好学生竞选稿，这小子临阵脱逃哦。我想是由于我写的东西对于小小学生来说太复杂的缘故。
 ---
 
+'''
+---
+layout: post
+title: 打包递归错误解决方案
+date: 2018-06-14
+categories: blog
+tags: [递归错误,py]
+description: Pyinstaller 打包成独立软件的时候“递归深度报错”——“RecursionError: maximum recursion depth exceeded” 解决方案。
+---
+'''
 
 # Pyinstaller maximum recursion depth exceeded Error Resolution
 
