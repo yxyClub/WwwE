@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 三好学生竞选稿2
+title: Pyinstaller递归错误解决方案
 date: 2018-01-24
 categories: blog
 tags: [三好学生,竞选稿]
