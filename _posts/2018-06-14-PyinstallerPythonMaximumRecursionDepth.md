@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pyinstaller打包Python脚本递归错误等问题的解决方案
-date: 2018-06-15
+date: 2018-06-14
 categories: blog
 tags: [Pyinstaller,递归错误,MaximumRecursionEepthExceeded]
 description: Pyinstaller打包成独立软件的时候“递归深度报错”，报错 “RecursionError: maximum recursion depth exceeded”解决方案。
@@ -14,7 +14,6 @@ description: Pyinstaller打包成独立软件的时候“递归深度报错”�
 ## 程序编制和运行环境
 
 我有两台电脑三套系统， MACpro-64位（另装了 win7的32位虚拟系统）和 ThinkPad 的Win7-64位，分别装上了 Anaconda 集成开发环境。
-
 
 ## 报错内容以及解决方法
 
@@ -41,8 +40,6 @@ description: Pyinstaller打包成独立软件的时候“递归深度报错”�
         d1=float(d1)# 新增加20180612,将sympy 内嵌的float类型装换位通用的 float 类型。
         N = 2.718281825**d1 #转换出N值
         print (round(N))# "N值为："
-
-
 
 ### 终极解决方案
 
