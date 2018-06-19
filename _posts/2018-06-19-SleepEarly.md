@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 早睡——实现伟大计划的最小行动
+title: 早睡：实现伟大计划的最小行动
 date: 2018-06-19
 categories: blog
 tags: [早睡,早起,自律,自控]
-description: 早睡——是实现一切伟大计划的最小行动。
+description: 早睡是实现一切伟大计划的最小行动。
 ---
 
 ## 引子

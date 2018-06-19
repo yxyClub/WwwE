@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 老兵：一个老兵到了台湾的生活切片。
+title: 老兵：一篇原创小说。
 date: 2017-03-24
 categories: blog
 tags: [小说,小说练习,老兵,写作]
