@@ -7,7 +7,7 @@ tags: [递归错误,py,python,MaximumRecursion]
 description: Pyinstaller 打包成独立软件的时候递归深度报错RecursionError maximum recursion depth exceeded 解决方案。
 ---
 
-# Pyinstaller maximum recursion depth exceeded Error Resolution
+> 报错：Pyinstaller maximum recursion depth exceeded Error Resolution
 
 ## 概述
 
