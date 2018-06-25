@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About|关于"
+title: "AboutDetail"
 description: "用作品向此生致敬 Pay Tribute to Life"
 header-img: "img/green.jpg"
 ---
