@@ -1,4 +1,12 @@
-# Anaconda安装和Pygame安装
+---
+layout: post
+title: Anaconda安装和Pygame安装
+date: 2018-01-28
+categories: blog
+tags: [Anaconda,安装,pygame,实验室]
+description: 我用的是Mac系统，直接就安装了，安装好之后，所有的库其实都是在Anaconda系统里的，也就是连同我新安装的Python3.6什么的都在Anaconda的控制之下。以后安装插件包直接从Anaconda下就可以了。但是有的时候不是很顺利。
+---
+
 ## Anaconda安装比较顺利
 
 我用的是Mac系统，直接就安装了，安装好之后，所有的库其实都是在Anaconda系统里的，也就是连同我新安装的Python3.6什么的都在Anaconda的控制之下。以后安装插件包直接从Anaconda下就可以了。但是有的时候不是很顺利。
@@ -32,8 +40,6 @@ Successfully installed pygame-1.9.3
 itifadeMacBook-Pro:LP3THW yyy$ python ex11old.py
 python ex11old.py
 ```
-
-
 ## ChangeLog
 
 - 本文件是2018-01-28 创建，但是pygame的问题依然没有解决。
