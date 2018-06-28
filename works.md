@@ -99,10 +99,6 @@ header-img: "img/semantic.jpg"
 
 
 <center>
-    <p><img src="https://upload-images.jianshu.io/upload_images/3785456-94e4f86449a3cdf5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" align="center"></p>
-</center>
-
-<center>
     <p><img src="https://upload-images.jianshu.io/upload_images/3785456-80661d7ea73d186b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" align="center"></p>
 </center>
 
