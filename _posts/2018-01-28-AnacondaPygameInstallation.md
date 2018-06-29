@@ -40,7 +40,21 @@ Successfully installed pygame-1.9.3
 itifadeMacBook-Pro:LP3THW yyy$ python ex11old.py
 python ex11old.py
 ```
+
+## 参考资料
+
+- [关于python下载和安装环境：](http://www.practicepython.org/blog/2017/03/24/install-python.html)
+
+- [Anaconda官方地址：](https://www.anaconda.com/download/#macos)但是特别慢。
+>下载 Anaconda 5.0.1 怎么提速？
+
+- [Anaconda镜像地址1：](https://mirrors.ustc.edu.cn/anaconda/archive/)
+
+- [Anaconda镜像地址2：](https://mirrors.geekpie.org/anaconda/ )
+> 下载最新版本即可。
+
 ## ChangeLog
 
 - 本文件是2018-01-28 创建，但是pygame的问题依然没有解决。
 - 20180625调整了格式。
+- 20180629增加了参考资料栏目。
