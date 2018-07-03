@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Archive"
+title: "归档"
 description: "你看到的，是我‘最小行动学一切’的所有文章"
 header-img: "img/orange.jpg"
 ---
