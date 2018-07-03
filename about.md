@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "关于"
 description: "用作品向此生致敬"
 header-img: "img/green.jpg"
 ---
