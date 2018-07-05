@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "GoodThing"
+title: "好物"
 description: "> 一直想要写个 GoodThingList，给自己用，也给自己愿意分享的人用。先写起来，立个 Flag，逐渐补充完善。"
 header-img: "img/semantic.jpg"
 ---
@@ -9,6 +9,8 @@ header-img: "img/semantic.jpg"
 <center>
     <p><img src="http://openmindclub.qiniudn.com/omt/WhiteAvatar.jpg" align="center"></p>
 </center>
+
+> 这里准备做一个收集器，将我认为好的“东西”，都收集到这里，分享给大家，也方便我自己查找。
 
 ## List
 {待补充}

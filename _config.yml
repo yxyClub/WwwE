@@ -49,7 +49,7 @@ defaults:
 comments :
   provider : disqus
   duoshuo :
-    short_name : cnfeatYYY
+    short_name : xiaoyanwork
   disqus :
       short_name : xiaoyanwork
 
