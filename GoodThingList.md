@@ -23,6 +23,12 @@ header-img: "img/semantic.jpg"
 - [国家计量技术规范全文公开系统](http://jjg.spc.org.cn/resmea/view/index)
 > 介绍：截止201806，有国家计量检定系统表95项，计量检定规程915项，计量器具型式评价大纲108项，持续更新中……
 
+
+## 牛人
+- [阳志平](https://www.yangzhiping.com/)
+- [oliverding](http://joinwee.com/accounts/oliverding/)
+
+
 ## 请喝咖啡
 
 有价值的事物，值得付出时间，也值得付出金钱。
