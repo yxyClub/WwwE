@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CTD 部门工作研究
+title: CTD 部门工作基本情况
 date: 2017-08-30
 categories: blog
 tags: [CTD,实验室]
