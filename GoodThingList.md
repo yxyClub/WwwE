@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "好物清单"
-description: "这里准备做一个收集器，将我认为好的“东西”，都收集到这里。分享给大家，也方便我自己查找。"
+title: "好物"
+description: "这里准备做一个收集器，将我认为好的“东西”，都收集到这里。"
 header-img: "img/semantic.jpg"
 ---
 <center>
