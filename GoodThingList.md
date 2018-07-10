@@ -13,6 +13,10 @@ header-img: "img/semantic.jpg"
 [Github仓库请点击](https://github.com/yuyanbing/GoodThingList/)
 > 以 md 清单的形式存在的好物清单，我想我这里算不算是关于“清单”的清单呢。
 
+## 书单
+
+- [阳志平的豆列](https://www.douban.com/people/ouyangzhiping/doulists/all)
+- [阳志平的书单的书单](https://www.yangzhiping.com/psy/booklist.html)
 
 ## 科研检索
 
