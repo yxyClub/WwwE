@@ -49,7 +49,7 @@ elif door=="2":
 else:
 	print"You stumble around and fall on a knife and die.Good job!"
 ```
-###RESULT
+### RESULT
 ```
 # 运行后的结果：
 '''
@@ -102,7 +102,7 @@ for i in elements:# 有没有发现，此处的循环函数中没有next。
 	print "Element was: %d"%i
 '''
 ```
-###RESULT
+### RESULT
 ```
 # 运行后的结果：
 '''
@@ -176,7 +176,7 @@ print  "The numbers:"
 for num in numbers:
 	print num
 ```
-###RESULT
+### RESULT
 ```
 # 运行后的结果：
 '''
@@ -250,7 +250,7 @@ animals=['bear','python','peacock','kangaroo','whale','platypus']
 8. The animal at 4.
 
 ```
-###RESULT
+### RESULT
 ```
 # 运行后的结果：
 '''
@@ -355,7 +355,7 @@ def start():
 start ()#
 
 ```
-###RESULT
+### RESULT
 ```
 # 运行后的结果：
 '''
@@ -439,7 +439,7 @@ Man,learn to type a number. Good job!
 
 
 ```
-###RESULT
+### RESULT
 ```
 # 运行后的结果：
 '''
@@ -566,7 +566,7 @@ itifadeMacBook-Pro:~ yyy$ python
 #花一个星期学习这些东西，如果你能 前完成就更好了。我们的目的是覆盖到所 有的符号 类型，确认你已经牢牢记住它们。另外很重要的一点是这样你可以找出自己还不知道哪些 东西，为自己日后学习找到一些方向。
 
 ```
-###RESULT
+### RESULT
 ```
 # 运行后的结果：
 
@@ -602,7 +602,7 @@ itifadeMacBook-Pro:~ yyy$
 
 
 ```
-###RESULT
+### RESULT
 ```
 # 运行后的结果：
 '''
@@ -647,7 +647,7 @@ print ' '.join(stuff)# what? cool?
 print '#'.join(stuff[3:5])#super stellar!
 
 ```
-###RESULT
+### RESULT
 ```
 
 
@@ -762,17 +762,8 @@ while True: #如果为真？谁为真？上面这一条？
 	print city_found#city 有可能打字出来是citi
 # 注意到我用了themap而不是map了吧？这是因为Python已经又一个函数叫做map了，如果你用map做变量，后面可能出问题。#这里只有两种情况了，或者是themap或者是Not Found.
 
-
-
-
-
-
-
-
-
-
 ```
-###RESULT
+### RESULT
 ```
 # 运行后的结果：
 '''

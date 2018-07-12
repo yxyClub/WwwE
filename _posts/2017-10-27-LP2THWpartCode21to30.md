@@ -14,7 +14,9 @@ description: 立个Flag开始学Python。
 > 本文件是“《笨办法学Python2.x》教&学记录”的第3部分，记录21-30题的教学。
 
 ## 第21题
+
 ### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -58,7 +60,8 @@ print "That becomes:",what,"Can you do it by hand?"
 
 ```
 
-###RESULT
+### RESULT
+
 ```
 
 # 以下是代码运行后所显示的结果
@@ -84,6 +87,7 @@ That becomes: -4391 Can you do it by hand?
 '''
 ```
 ---
+
 ## 第22题
 ### CODE
 ```
@@ -118,7 +122,7 @@ That becomes: -4391 Can you do it by hand?
 - 你可以一次花个 15 分钟，然后休息一下。
 - 作息结合 可以让你学得更快，而且可以让你保持士气。
 ```
-###RESULT
+### RESULT
 ```
 
 # 以下是代码运行后所显示的结果
@@ -168,7 +172,7 @@ That becomes: -4391 Can you do it by hand?
 - 例如你可以搜索“journalism(新闻)”，“cooking(厨艺)”，“physics(物理)”， 或者任何你感兴趣的话题。
 - 你也许会找到一些你对你有用的，可以直接拿来用的 代码。
 ```
-###RESULT
+### RESULT
 ```
 
 # 以下是代码运行后所显示的结果
@@ -224,7 +228,7 @@ print "We'd have %d beans,%d jars,and %d crates."%secret_formula(start_point)#�
 
 
 ```
-###RESULT
+### RESULT
 ```
 # 运行后的结果：
 '''
@@ -544,7 +548,7 @@ print_irst_and_last(sentence)
 
 
 ```
-###RESULT
+### RESULT
 ```
 这里我不准备修改了，直接进入下一题。
 ```
@@ -620,7 +624,7 @@ not(False and False)-----True
 本书不要求你成功或者失败，只要每天尽力去学，在尽力的基础上，多花一点功夫就可以了。
 
 ```
-###RESULT
+### RESULT
 ```
 尽快记住这些逻辑关系。
 但是我一看一眼我也知道，True or Flase。
@@ -659,7 +663,7 @@ not(False and False)-----True
 20.3==3 and not("testing"=="testing" or "Python"=="Fun")   False
 '''
 ```
-###RESULT
+### RESULT
 ```
 ## 执行结果,如下：
 '''
@@ -750,7 +754,7 @@ if people<= dogs:
 if people==dogs:
 	print"People are dogs."
 ```
-###RESULT
+### RESULT
 ```
 # 运行后的结果：
 '''
@@ -800,7 +804,7 @@ if people > buses:
 else:
 	print "Fine,let's stay home then."
 ```
-###RESULT
+### RESULT
 ```
 
 # 运行后的结果：
@@ -822,7 +826,7 @@ Alright,let's just tkae the buses.
 
 
 
-##LOG
+## LOG
 
 - 20171027 创建。早上做了3题，其实前2题也不算做，根本没敲代码。
 - 20171027 反思，中午闲聊，玩农场游戏，结果只剩下30分时间来敲代码。这样下去，所有的计划和目标都是不可能完成的。
