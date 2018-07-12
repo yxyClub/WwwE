@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MAC 系统如何截图并利用简书当图床
-date: 2017-10-22
+date: 2017-09-01
 categories: blog
 tags: [MAC,截图,简书,图床]
 description:  MAC 系统如何截图并利用简书当图床。
