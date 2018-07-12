@@ -6,6 +6,7 @@ categories: blog
 tags: [Python,笨办法学Python,LearnPython2TheHardWay,LP2THW]
 description: 立个Flag开始学Python。
 ---
+
 > 后续练习的习题均为《笨办法学Python》（Learn Python 2 The Hard Way，LP2THW）的练习代码，所用的是Python2.7版本。后续我会再刷一遍
 
 ## 例题复现：
@@ -14,6 +15,7 @@ description: 立个Flag开始学Python。
 
 ## 1.0 习题一
 ### 代码
+
 ```
 print "Hello World!"
 print "Hello Again"
@@ -24,9 +26,11 @@ print "I'd much rather you 'not'."
 print 'I "said" do not touch this.'
 #!/usr/bin/env python2
 ```
+
 > 注：找到编辑好的文件（x.py）之后，右键采用IDLE.app（2.7）打开，按F5运行。
 
 ### 运行结果
+
 ```
 Python 2.7.14 (v2.7.14:84471935ed, Sep 16 2017, 12:01:12)
 [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
@@ -44,9 +48,11 @@ I'd much rather you 'not'.
 I "said" do not touch this.
 >>>
 ```
+
 ---
 ## 2.0 习题一
 ### 代码
+
 ```
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by python.
@@ -59,10 +65,10 @@ print  "I could have code like this.测试拷贝中文到这里。"# and the com
 print "This will run."
 # I also try no "space" between the Print and the(),look what happend.
 
-
 ```
 
 ### 运行结果
+
 ```
 Python 2.7.14 (v2.7.14:84471935ed, Sep 16 2017, 12:01:12)
 [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
@@ -75,8 +81,11 @@ I could have code like this.测试拷贝中文到这里。
 This will run.
 >>>
 ```
+
 ## 3.0 习题三
+
 ### 代码
+
 ```
 print "I will now count my chickens:"
 
@@ -114,7 +123,9 @@ print "Is it less or equal?", 5 <=- 2
 ## the cod below is for plus bonus。
 
 ```
+
 ### 结果
+
  ```
 Python 2.7.14 (v2.7.14:84471935ed, Sep 16 2017, 12:01:12)
 [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
@@ -145,6 +156,7 @@ Is it less or equal? False
 
 ## 4.0习题4
 ### 代码
+
 ```
 #  设置：给变量 车（cars）赋值100，每量车的空是4.0，司机是30个，旅客是90个。
 # 车数量为100
@@ -182,7 +194,9 @@ print "We need to put about",average_passengers_per_car,"in each car.hahaha"
 
 print "数学是一切科学的源头和归宿，Turtules乌龟程序“”"
 ```
+
 ### 结果
+
 ```
 Python 2.7.14 (v2.7.14:84471935ed, Sep 16 2017, 12:01:12)
 [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
@@ -213,6 +227,7 @@ Is it less or equal? False
 
 ## 5.0 习题5
 ### CODE
+
 ```
 # -- coding: utf-8 --
 ## 以下代码在py2下调试通过
@@ -270,8 +285,11 @@ His teeth are usually White depending on the coffee.
 If I add 35,74,and 180 I get 289.
 >>>
 ```
+
 ## 6.0 习题6
+
 ### 代码
+
 ```
 # 将“字符串”赋值给"变量x"，该字符串中有个位置是用“%d”（包含格式）来代替的。%d这个符号看起来有两个作用：第一个作用是“占位符”——证明这个位置将来会有个东西放在这里；第二个作用是“这个东西的格式”，既然其使用了%d，我认为其应该是digital——数字的。
 
@@ -312,6 +330,7 @@ print w+e # 中间用+号 将两个字符串连接起来。
 ```
 
 ### 结果
+
 ```
 Python 2.7.14 (v2.7.14:84471935ed, Sep 16 2017, 12:01:12)
 [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
@@ -332,6 +351,7 @@ This is the left side of...a string with a right side.
 ## 7.0 习题7
 
 ### CODE
+
 ```
 # -*- coding: utf-8 -*- #
 
@@ -363,7 +383,9 @@ print ("------我们是有底线的------")
 print end1 + end2 + end3 + end4 + end5 + end6+end0+end7 + end8 + end9 + end10 + end11 +end12
 
 ```
+
 ## RESULT
+
 ```
 Python 2.7.14 (v2.7.14:84471935ed, Sep 16 2017, 12:01:12)
 [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
@@ -382,8 +404,11 @@ Cheese Burger
 >>>
 ```
 ---
+
 ## 8.0 题目8
+
 ### 代码
+
 ```
 formatter ="%r %r %r %r"#注意：貌似这里定义了一个字符串格式的变量 formatter
 # 下面这个是4个数字按照上面这个样子的格式打出来。
@@ -402,6 +427,7 @@ print formatter %("I had this thing.","That you could type up right.","But it di
 #LOG 20171023 发现，在PY2里print("Hello!")和print"Hello!"都可以调试通过，但是PY3里只允许使用Print("Hello!")这样的方式。于是在本次，我将括号给去掉了。
 
 ```
+
 ### 测试结果
 
 ```
@@ -420,9 +446,11 @@ True False False True
 >>>
 ```
 ---
+
 ## 9.0 第9题
 
-###CODE
+### CODE
+
 ```
 # Here's some new strange stuff, remember type it exactly.
 
@@ -445,7 +473,9 @@ Even 4 lines if we want,or 5,or 6.
 # LOG：20171023 在PY2中调试通过。
 
 ```
+
 ### RESULT
+
 ```
 =========== RESTART: /Users/yyy/Documents/Python_LP2THW/ex9py2.py ===========
 Here are the days: Mon Tue Wed Thu Fri Sat Sun
@@ -466,8 +496,11 @@ Even 4 lines if we want,or 5,or 6.
 >>>
 ```
 ---
+
 ## 10 第10题
+
 ### CODE
+
 ```
 # 让字符扩展到多行的方法一： 采用 \n 隔开，这是一个放入“新行”的作用。
 # “转义序列(escape sequences)”-----\  and  \\ and ' ' and " "。
@@ -496,7 +529,9 @@ print fat_cat
 #%r 打印出来的是你写在脚本里的内容，而%s打印出来的是你应该看到的内容。
 
 ```
+
 ### RESULT
+
 ```
 =========== RESTART: /Users/yyy/Documents/Python_LP2THW/ex10py2.py ===========
 	 I'm tabbed in.
@@ -518,14 +553,19 @@ I'll do a list: # 这一行没有转义字符的时候就会靠最左侧。
 
 
 ---
+
 ## x.题记、编辑器和参考资料
-> **题记**：Python2.x和Python3.x在语法规则中发生了变化。鉴于大量的库采用了Python2.x，以及从对初学者的学习曲线的角度上讲（从Python2.x到Python3.x容易，反过来则坑多--沥川语），从2.x开始学还是有必要的。因此，LP2THW和LP3THW习题各刷一遍题还是很有必要的。好的，那么下边咱开始吧。
+
+- **题记**：Python2.x和Python3.x在语法规则中发生了变化。鉴于大量的库采用了Python2.x，以及从对初学者的学习曲线的角度上讲（从Python2.x到Python3.x容易，反过来则坑多--沥川语），从2.x开始学还是有必要的。因此，LP2THW和LP3THW习题各刷一遍题还是很有必要的。好的，那么下边咱开始吧。
+
 - **代码编辑器**：我喜欢用TextMate(在MacOS系统下写起来比较爽，而且输入中文的时候比较友好)，另安装了IDLE.app(2.7和3.6，两种运行环境，可以分别运行2.x和3.x的代码，打开之后按F5)。
+
 - **参考资料**：《LP2THW（中文）》、《LP3THW》、[Practice Python网站](http://www.practicepython.org)、《教孩子学Python》（里面的画画和游戏程序很酷）。
 
 
 
 ## LOG
+
 - 20170927 建立了此文件。
 - 20170928 将前面做的几道例题（1～6）搬过来，以陈述的方式讲给大家听。本文件将持续更新。
 - 20170929 在火车上创建了这习题7、8、9 、10这三个习题
