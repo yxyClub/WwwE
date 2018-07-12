@@ -10,8 +10,11 @@ description: 立个Flag开始学Python。
 > 本文件是“《笨办法学Python2.x》教&学记录”的第4部分，记录31-40题的教学。
 
 ---
+
 ## 第31题
+
 ### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -50,6 +53,7 @@ else:
 	print"You stumble around and fall on a knife and die.Good job!"
 ```
 ### RESULT
+
 ```
 # 运行后的结果：
 '''
@@ -60,6 +64,7 @@ It could fun freely nice！
 ---
 ## 第32题
 ### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -103,6 +108,7 @@ for i in elements:# 有没有发现，此处的循环函数中没有next。
 '''
 ```
 ### RESULT
+
 ```
 # 运行后的结果：
 '''
@@ -144,7 +150,9 @@ Element was: 5
 
 ```
 ---
+
 ## 第33题
+
 ### CODE
 ```
 #!/usr/bin/python
@@ -177,6 +185,7 @@ for num in numbers:
 	print num
 ```
 ### RESULT
+
 ```
 # 运行后的结果：
 '''
@@ -227,8 +236,11 @@ The numbers:
 '''
 ```
 ---
+
 ## 第34题
+
 ### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -251,6 +263,7 @@ animals=['bear','python','peacock','kangaroo','whale','platypus']
 
 ```
 ### RESULT
+
 ```
 # 运行后的结果：
 '''
@@ -271,8 +284,11 @@ animals=['bear','python','peacock','kangaroo','whale','platypus']
 '''
 ```
 ---
+
 ## 第35题
+
 ### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -356,6 +372,7 @@ start ()#
 
 ```
 ### RESULT
+
 ```
 # 运行后的结果：
 '''
@@ -405,8 +422,11 @@ Man,learn to type a number. Good job!
 '''
 ```
 ---
+
 ## 第36题
+
 ### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -439,7 +459,9 @@ Man,learn to type a number. Good job!
 
 
 ```
+
 ### RESULT
+
 ```
 # 运行后的结果：
 '''
@@ -449,8 +471,10 @@ itifadeMacBook-Pro:~ yyy$ python
 '''
 ```
 ---
+
 ## 第37题
 ### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -566,7 +590,9 @@ itifadeMacBook-Pro:~ yyy$ python
 #花一个星期学习这些东西，如果你能 前完成就更好了。我们的目的是覆盖到所 有的符号 类型，确认你已经牢牢记住它们。另外很重要的一点是这样你可以找出自己还不知道哪些 东西，为自己日后学习找到一些方向。
 
 ```
+
 ### RESULT
+
 ```
 # 运行后的结果：
 
@@ -576,7 +602,9 @@ itifadeMacBook-Pro:~ yyy$
 
 ```
 ---
+
 ## 第38题
+
 ### CODE
 ```
 #!/usr/bin/python
@@ -602,7 +630,9 @@ itifadeMacBook-Pro:~ yyy$
 
 
 ```
+
 ### RESULT
+
 ```
 # 运行后的结果：
 '''
@@ -610,7 +640,9 @@ itifadeMacBook-Pro:~ yyy$
 '''
 ```
 ---
+
 ## 第39题
+
 ### CODE
 ```
 #!/usr/bin/python
@@ -647,7 +679,9 @@ print ' '.join(stuff)# what? cool?
 print '#'.join(stuff[3:5])#super stellar!
 
 ```
+
 ### RESULT
+
 ```
 
 
@@ -699,8 +733,10 @@ Telephone#Light
 
 ```
 ---
+
 ## 第40题
 ### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -764,6 +800,7 @@ while True: #如果为真？谁为真？上面这一条？
 
 ```
 ### RESULT
+
 ```
 # 运行后的结果：
 '''
@@ -805,6 +842,6 @@ State?(ENTER to quit) >
 
 - 20171029 创建本文件，更新了31题。下午更新了32～35题，加分题基本没做。
 - 20171030 完成了36-38题，基本没啥代码，就是看看而已。
-- 20171031 早上没起来，中午忙着**认证的事，也拖延着不去做，结果是进度很慢。中午草草看了29题，先更新了再说，但是这题我看的云里雾里，比如：len(stuff)是个什么鬼，print stuff.pop()     ； print ' '.join(stuff)# what? cool?
+- 20171031 早上没起来，中午忙着**认证的事，也拖延着不去做，结果是进度很慢。中午草草看了29题，先更新了再说，但是这题我看的云里雾里，比如：len(stuff)是个什么鬼，print stuff.pop() ； print ' '.join(stuff)# what? cool?
 print '#'.join(stuff[3:5])#super stellar! 这些都挺操蛋的，将来再说，暂且更新到这里。
 - 20171106早上粘贴了这些代码。这写代码是201711月初陆续完成的但是没有上传。
