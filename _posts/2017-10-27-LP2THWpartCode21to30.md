@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《笨办法学Python》记录-part3（习题21～40）
+title: 《笨办法学Python》记录-part3（习题21～30）
 date: 2017-10-27
 categories: blog
 tags: [Python,笨办法学Python,LearPython2TheHardWay,LP2THW]
@@ -855,3 +855,4 @@ Alright,let's just tkae the buses.
 - 20171028 增加了24-25题的练习，其中25题反复出现问题，调试了4～5个回合，才调试完。
 - 20171029 从28日完开始写26～28，半夜一直调试到凌晨12点半，做完了28题，感觉还行。（以后不能熬夜，告诉你好多次了，每次总是违背。）
 - 20171029 更新了29和30题，感想：以前还是有一定的编程基础的，所以这里提到fen zhi yu ju
+- 20180712 ChangeName
