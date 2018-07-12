@@ -89,6 +89,7 @@ That becomes: -4391 Can you do it by hand?
 ---
 
 ## 第22题
+
 ### CODE
 ```
 #!/usr/bin/python
@@ -123,6 +124,7 @@ That becomes: -4391 Can you do it by hand?
 - 作息结合 可以让你学得更快，而且可以让你保持士气。
 ```
 ### RESULT
+
 ```
 
 # 以下是代码运行后所显示的结果
@@ -130,8 +132,8 @@ That becomes: -4391 Can you do it by hand?
 ```
 ---
 
-
 ## 第23题
+
 ### CODE
 ```
 #!/usr/bin/python
@@ -173,6 +175,7 @@ That becomes: -4391 Can you do it by hand?
 - 你也许会找到一些你对你有用的，可以直接拿来用的 代码。
 ```
 ### RESULT
+
 ```
 
 # 以下是代码运行后所显示的结果
@@ -180,8 +183,11 @@ That becomes: -4391 Can you do it by hand?
 ```
 
 ----
+
 ## 第24题 更多练习
+
 ### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -228,7 +234,9 @@ print "We'd have %d beans,%d jars,and %d crates."%secret_formula(start_point)#�
 
 
 ```
+
 ### RESULT
+
 ```
 # 运行后的结果：
 '''
@@ -261,6 +269,7 @@ We'd have 500000 beans,500 jars,and 5 crates.
 ## 第25题
 
 ### CODE
+
 ```
 '''
 #!/usr/bin/python
@@ -307,6 +316,7 @@ def print_first_and_last_sorted(sentence):
 
 ```
 ## RESULT
+
 ```
 Python 2.7.14 (v2.7.14:84471935ed, Sep 16 2017, 12:01:12)
 [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
@@ -410,8 +420,11 @@ SyntaxError: invalid syntax
 Unsupported characters in input
 ```
 ----
+
 ## 第26题
+
 ### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -543,18 +556,18 @@ print_irst_and_last(sentence)
 ## 下面这个是修改后的代码：
 
 
-
-
-
-
 ```
 ### RESULT
+
 ```
 这里我不准备修改了，直接进入下一题。
 ```
 ---
+
 ## 第27题
+
 ### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -625,6 +638,7 @@ not(False and False)-----True
 
 ```
 ### RESULT
+
 ```
 尽快记住这些逻辑关系。
 但是我一看一眼我也知道，True or Flase。
@@ -633,8 +647,11 @@ not(False and False)-----True
 ```
 ---
 ## 第28题
+
 > 这里作者试图告诉我们，怎么进行逻辑判断，我这里掌握的没有问题，感觉比较简单，一次通过。
+
 ### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -664,6 +681,7 @@ not(False and False)-----True
 '''
 ```
 ### RESULT
+
 ```
 ## 执行结果,如下：
 '''
@@ -722,7 +740,9 @@ False
 
 ```
 ---
+
 ## 第29题
+
 ### CODE
 ```
 #!/usr/bin/python
@@ -755,6 +775,7 @@ if people==dogs:
 	print"People are dogs."
 ```
 ### RESULT
+
 ```
 # 运行后的结果：
 '''
@@ -772,7 +793,9 @@ People are dogs.
 '''
 ```
 ---
+
 ## 第30题
+
 ### CODE
 ```
 #!/usr/bin/python
@@ -805,6 +828,7 @@ else:
 	print "Fine,let's stay home then."
 ```
 ### RESULT
+
 ```
 
 # 运行后的结果：
@@ -823,8 +847,6 @@ Alright,let's just tkae the buses.
 '''
 ```
 ---
-
-
 
 ## LOG
 
