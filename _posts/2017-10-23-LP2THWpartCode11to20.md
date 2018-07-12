@@ -500,7 +500,7 @@ print_none()
 Python 2.7.14 (v2.7.14:84471935ed, Sep 16 2017, 12:01:12)
 [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
 Type "copyright", "credits" or "license()" for more information.
->>> WARNING: The version of Tcl/Tk (8.5.9) in use may be unstable.
+>>> W-ARNING: The version of Tcl/Tk (8.5.9) in use may be unstable.
 Visit http://www.python.org/download/mac/tcltk/ for current information.
 
 ============ RESTART: /Users/yyy/Documents/Python_LP2THW/ex18.py ============
