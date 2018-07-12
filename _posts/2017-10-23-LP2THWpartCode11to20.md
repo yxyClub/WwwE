@@ -12,7 +12,9 @@ description: 立个Flag开始学Python。
 > 本文件是“《笨办法学Python2.x》教&学记录”的第二部分，记录11-20题的教学。
 
 ## 第11题
+
 ### CODE
+
 ```
 # 第11题
 
@@ -31,7 +33,8 @@ print "So, you're %r old,%r tall and %r heavy." %(age,height,weight)#注意，�
 
 ```
 
-###RESULT
+### RESULT
+
 ```
 >>>
 =========== RESTART: /Users/yyy/Documents/Python_LP2THW/ex11py2.py ===========
@@ -44,8 +47,10 @@ So, you're '35' old,'195' tall and '75kg' heavy.
 
 ```
 ---
+
 ## 第12题
-###CODE
+
+### CODE
 ```
 # 习题12 提示别人
 #y= raw_input("Name?")#在括号里可以放入提示的问题。用户输入就赋值给了y.
@@ -73,7 +78,8 @@ SyntaxError: invalid syntax
 '''
 
 ```
-###RESULT
+### RESULT
+
 ```
 =========== RESTART: /Users/yyy/Documents/Python_LP2THW/ex12py2.py ===========
 您多大了？15
@@ -83,8 +89,10 @@ SyntaxError: invalid syntax
 >>>
 ```
 ---
+
 ## 第13题
-###CODE
+### CODE
+
 ```
 # 习题13：参数(argument)、解包、变量
 
@@ -119,9 +127,10 @@ print  "Your third variable is:",third
 
 # 加分题【将 raw_input 和 argv 一起使用，让你的脚本从用户手上得到更多的输入】我没做，因为不知道如何将raw_input作为参数来使用。
 
-
 ```
-###RESULT
+
+### RESULT
+
 ```
 '''
 运行后显示如下：这里用了cheese apple bread共3个参数。
@@ -147,7 +156,8 @@ PS C:\Users\Administrator>
 -----
 
 ## 第14题
-###CODE
+
+### CODE
 ```
 # 第14题
 # 使用argv和raw_input 一起来向用户提特别的问题。这是下一节习题读写的基础。
@@ -186,6 +196,7 @@ And you have a %r computer. Nice.# 这里也有一个占位符，估计也没啥
 # 我明白了，在两个{三个双引号""" }之间理论上被注释或者成段打印的多段字符串，里面的站位符，可以被最后的三引号之外的参数，集中引用。
 # 注意连续的三个半角的双引号之间不可以有空格，最后的三个双引号也是如此。
 ```
+
 ### RESULT
 
 ```
@@ -231,7 +242,7 @@ itifadeMacBook-Pro:~ yyy$
 
 ---
 ## 第15题
-###CODE
+### CODE
 ```
 from sys import argv #argv参数用于获取文件名变量。
 
@@ -251,9 +262,9 @@ txt_again= open(file_again)
 
 print txt_again.read()
 
-
 ```
-###RESULT
+### RESULT
+
 ```
 ''''
 运行后显示的结果：注意，提到的文件和路径必须完整才行。
@@ -274,8 +285,6 @@ itifadeMacBook-Pro:~ yyy$
 # 由于安装路径的问题，现在用python经常用到路径，还是比较别手的。有点烦躁。折腾一早上，完成1题，还不算加分部分（本章很重要，作者要求你做好加分题）
 
 
-
-
 ''''
 现在请在命令行运行 pydoc open 来读读它的说 明。
 在mac中可以清晰的看到和使用pydoc 这个命令
@@ -291,9 +300,12 @@ open(...)
 (END)
 '''
 ```
+
 ---
+
 ## 第16题
-###CODE
+### CODE
+
 ```
 from sys import argv
 
@@ -338,7 +350,9 @@ python  Documents/Python_LP2THW/ex16.py Documents/Python_LP2THW/test.txt
 '''
 # 20171024 心烦 加分题没做
 ```
-###RESULT
+
+### RESULT
+
 ```
 20171024 上午发现ex16文件中用中文注释，不能运行。于是，将它单独摘出来，列在下面：
 #从本文件开始，我们的命名中不再使用py2这个关键词，直接使用教材中提到的命名方法。
@@ -371,8 +385,10 @@ itifadeMacBook-Pro:~ yyy$
 '''
 ```
 ---
+
 ## 第17题
-###CODE
+### CODE
+
 ```
 #17
 from sys import argv
@@ -404,7 +420,9 @@ input.close()
 '''
 
 ```
-###RESULT
+
+### RESULT
+
 ```
 # The Result .....Any Chinese Character Can not be in the it ,or it will report a wrong!
 
@@ -426,8 +444,9 @@ itifadeMacBook-Pro:~ yyy$
 ```
 >找出为什么你需要在代码中写 output.close()? ——现在我还不知道。这个题的加分题，我也没有做。
 ---
+
 ## 第18题
-###CODE
+### CODE
 ```
 #命名-变量-代码-函数（function）
 #函数可以教你做3样事情：给代码片段命名；它们可以接受函数，就跟你的脚本接受argv一样；通过使用#1和#2，它们可以让你创建微型脚本或者小命令。
@@ -491,7 +510,9 @@ print_none()
 
 
 ```
-###RESULT
+
+### RESULT
+
 ```
 #以下是上述代码的运行结果#
 '''
@@ -512,8 +533,10 @@ I got nothin'.
 '''
 ```
 ---
+
 ## 第19题
-###CODE
+### CODE
+
 ```
  # -*- coding: utf-8 -*-
 # 19:函数和变量
@@ -545,7 +568,9 @@ cheese_and_crackers(amount_of_cheese +100, amount_of_crackers +1000)
 
 
 ```
-###RESULT
+
+### RESULT
+
 ```
 '''
 运行后的结果：
@@ -579,8 +604,10 @@ Get a blanket.
 '''
 ```
 ---
+
 ## 第20题
-###CODE
+### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -621,7 +648,9 @@ print_a_line(current_line,current_file)
 
 
 ```
-###RESULT
+
+### RESULT
+
 ```
 
 # 运行后的结果：
@@ -646,7 +675,6 @@ itifadeMacBook-Pro:~ yyy$
 
 ```
 ## LOG
-
 - 20171023 白天完成了8～14题，并于晚上上传，本文件上传11～14题。
 - 20171024 早上完成第15题（承前启后），暂时没做加分题。
 - 20171024 夜，里今天是程序员的节日，多么希望我能成为一个程序员，通过代码改变世界。今天白天到效率有点低，更新了16和17代码，主要是16，理解还不深入，死磕了啊，先刷一遍再说吧。
