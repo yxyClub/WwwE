@@ -10,6 +10,7 @@ description: 立个Flag开始学Python。
 ## 第48题
 
 ### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -84,8 +85,6 @@ Traceback (most recent call last):
 File "<stdin>", line 1, in <module>
 ValueError: invalid literal for int() with base 10: 'hell' >>
 
-
-
 '''
 # 文字
 
@@ -126,15 +125,19 @@ def convert_nuber(s):
 5. 我的解决方案用了 37 行代码，你的是更长还是更短呢?
 '''
 ```
+
 ### RESULT
 
 ```
 NO
 ```
+
 ---
 
 ## 第49题
+
 ### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -298,19 +301,19 @@ def parse_sentence(word_list):
 '''
 本题就是照着敲了代码，并没有进行进一步的测试和运行。
 '''
-
-
-
 ```
 
 ### RESULT
+
 ```
 NO
 ```
 ---
 
 ## 第50题
+
 ### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -468,6 +471,7 @@ NO
 ---
 
 ## 第51题
+
 ### CODE
 ```
 #!/usr/bin/python
@@ -769,14 +773,19 @@ GET 和 POST 两种请求的情况下都能正常工作。就算你没有弄明�
 '''
 # 运行后的结果：
 ```
+
 ### RESULT
+
 ```
 NO
 ```
+
 ---
 
 ## 第52题
+
 ### CODE
+
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -1153,6 +1162,7 @@ $else:
 你会编程。他们不会。这真他妈的酷。
 '''
 ```
+
 ### RESULT
 
 ```
