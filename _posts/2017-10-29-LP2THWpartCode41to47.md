@@ -13,6 +13,7 @@ description: 立个Flag开始学Python。
 ---
 
 ## 第41题
+
 ### CODE
 
 ```
@@ -238,6 +239,7 @@ def runner(map, start):
 runner(ROOMS, 'central_corridor')#没看出来哪里又问题，增加个空格看看行不行。
 
 ```
+
 ### RESULT
 
 ```
@@ -789,6 +791,7 @@ harry = Halibut()
 ```
 
 ### RESULT
+
 ```
 # 运行后的结果：
 '''
@@ -836,6 +839,7 @@ inheritance)”的资料，然后尽量避免这种用法。
 ---
 
 ## 第46题
+
 ### CODE
 ```
 #!/usr/bin/python
