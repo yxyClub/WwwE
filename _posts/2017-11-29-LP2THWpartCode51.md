@@ -7,7 +7,7 @@ tags: [Python,笨办法学Python,LearPython2TheHardWay,LP2THW]
 description: 立个Flag开始学Python。
 ---
 
-> test
+> test+
 
 ## 第51题
 
@@ -23,12 +23,9 @@ description: 立个Flag开始学Python。
 '''
 # Web工作原理
 '''
-该学点无趣的东西了。在创建 form 前你需要先多学一点关于 web 的工作原理。 这里讲并不完整，但是相当准确，在你的程序出错是，它会帮你找到出错的原因。 另外，如果你理解了 form 的应用，那么创建 form 对你来说就会更容易了。
-我将以一个简单的图示讲起，它向你展示了 web 请求的各个不同的部分，以及 信息传递的大致流程:
-
-
-为了方便讲述 HTTP 请求(request) 的流程，我在每条线上面加了字母标签以 作区别。
-
+该学点无趣的东西了。在创建 form 前你需要先多学一点关于 web 的工作原理。 这里讲并不完整，但是相当准确，在你的程序出错是，它会帮你找到出错的原因。 另外，如果你理解了 form 的应用，那么创建form 对你来说就会更容易了。
+我将以一个简单的图示讲起，它向你展示了 web 请求的各个不同的部分，以及信息传递的大致流程:
+为了方便讲述 HTTP 请求(request) 的流程，我在每条线上面加了字母标签以作区别。
 1. 你在浏览器中输入网址http://learnpythonthehardway.org/，然后浏览器 会通过你的电脑的网络设备发出 request(线路 A)。
 2. 你的 request 被传送到互联网(线路 B)，然后再抵达远端服务器(线路 C)，然 后我的服务器将接受这个 request。
 3. 我的服务器接受 request 后，我的 web 应用程序就去处理这个请求(线路 D)， 然后我的 Python 代码就会去运行index.GET这个“处理程序(handler)”。
@@ -37,25 +34,18 @@ description: 立个Flag开始学Python。
 6. 响应通过互联网由线路 B 传至你的计算机，计算机的网卡再通过线路 A 将响应传
 给你的浏览器。
 7. 最后，你的浏览器显示了这个响应的内容。
-
 这段详解中用到了一些术语。你需要掌握这些术语，以便在谈论你的 web 应用 时你能明白而且应用它们:
-
 浏览器(browser)
-
-这是你几乎每天都会用到的软件。大部分人不知道它真正的原理，他们只会把它叫 作“网”。它的作用其实是接收你输入到地址栏网址(例如 http://learnpythonthehardway.org)，然后使用该信息向该网址对应的服务器 出请 求(request)。
-
+这是你几乎每天都会用到的软件。大部分人不知道它真正的原理，他们只会把它叫 作“网”。它的作用其实是接收你输入到地址栏网址例如http://learnpythonthehardway.org/)，然后使用该信息向该网址对应的服务器 出请 求(request)。
 地址(address)
-
-通 常 这 是 一 个 像 http://learnpythonthehardway.org/ 一 样 的 URL (Uniform Resource Locator，统一资源定位器)，它告诉浏览器该打开哪个网站。前面 的 http 指出了你要使用的协议(protocol)，这里我们用的是“超文本传输协议 (Hyper-Text Transport Protocol)”。你还可以试试 ftp://ibiblio.org/ ，这是一个“FTP 文 件传输协议(File Transport Protocol)”的例子。learnpythonthehardway.org 这 部分是“主机名(hostname)”，也就是一个便于人阅读和记忆的字串，主机名会被匹 配到一串叫作“IP 地址”的数字上面，这个“IP 地址”就相当于网络中一台计算机的电 话号码，通过这个号码可以访问到这台计算机。最后，URL 中还可以尾随一个“路 径”，例如 http://learnpythonthehardway.org/book/ 中的 /book/，它对应的是服务 器上的某个文件或者某些资源，通过访问这样的网址，你可以向服务器发出请求， 然后获得这些资源。网站地址还有很多别的组成部分，不过这些是最主要的。
+通常这是一个像http://learnpythonthehardway.org/一样的URL(Uniform Resource Locator，统一资源定位器)，它告诉浏览器该打开哪个网站。前面的http指出了你要使用的协议(protocol)，这里我们用的是“超文本传输协议 (Hyper-Text Transport Protocol)”。你还可以试试ftp://ibiblio.org/ ，这是一个“FTP 文 件传输协议(File Transport Protocol)”的例子。learnpythonthehardway.org 这 部分是“主机名(hostname)”，也就是一个便于人阅读和记忆的字串，主机名会被匹 配到一串叫作“IP 地址”的数字上面，这个“IP 地址”就相当于网络中一台计算机的电 话号码，通过这个号码可以访问到这台计算机。最后，URL 中还可以尾随一个“路 径”，例如http://learnpythonthehardway.org/book/ 中的 /book/，它对应的是服务 器上的某个文件或者某些资源，通过访问这样的网址，你可以向服务器发出请求， 然后获得这些资源。网站地址还有很多别的组成部分，不过这些是最主要的。
 
 连接(connection)
 一旦浏览器知道了协议(http)、服务器(learnpythonthehardway.org)、以及要获得的 资源，它就要去创建一个连接。这个过程中，浏览器让操作系统(Operating System, OS)打开计算机的一个“端口(port)”(通常是 80 端口)，端口准备好以后，操作系统 会回传给你的程序一个类似文件的东西，它所做的事情就是通过网络传输和接收数 据，让你的计算机和 learnpythonthehardway.org 这个网站所属的服务器之间实现
-数据交流。 当你使用 http://localhost:8080/ 访问你自己的站点时，发生的事情其实 是一样的，只不过这次你告诉了浏览器要访问的是你自己的计算机(localhost)，要使 用的端口 不是默认的 80，而是 8080。你还可以直接访 问 http://learnpythonthehardway.org:80/， 这和不输入端口效果一样，因为 HTTP 的默认端口本来就是 80。
-
+数据交流。 当你使用http://localhost:8080/ 访问你自己的站点时，发生的事情其实 是一样的，只不过这次你告诉了浏览器要访问的是你自己的计算机(localhost)，要使 用的端口 不是默认的 80，而是 8080。你还可以直接访问http://learnpythonthehardway.org:80/， 这和不输入端口效果一样，因为 HTTP 的默认端口本来就是 80。
 
 请求(request)
 你的浏览器通过你 供的地址建立了连接，现在它需要从远端服务器要到它(或你) 想要的资源。如果你在 URL 的结尾加了/book/，那你想要的就是 /book/ 对应 的文件或资源，大部分的服务器会直接为你调用 /book/index.html 这个文件，不过 我们就假装不存在好了。浏览器为了获得服务器上的资源，它需要向服务器发送一 个“请求”。这里我就不讲细节了，为了得到服务器上的内容，你必须先向服务器发 送一个请求才行。有意思的是，“资源”不一定非要是文件。例如当浏览器向你的应用程序 出请求的时候，服务器返回的其实是你的 Python 代码生成的一些东西。
-
 
 服务器(server)
 服务器指的是浏览器另一端连接的计算机，它知道如何回应浏览器请求的文件和资 源。大部分的 web 服务器只要发送文件就可以了，这也是服务器流量的主要部分。 不过你学的是使用 Python 组建一个服务器，这个服务器知道如何接受请求，然后 返回用 Python 处理过的字符串。当你使用这种处理方式时，你其实是假装把文件 发给了浏览器，其实你用的都只是代码而已。就像你在《习题 50》中看到的，要构 建一个“响应”其实也不需要多少代码。
@@ -69,10 +59,9 @@ description: 立个Flag开始学Python。
 熟悉表单的最好方法是写一个可以接受表单数据的程序出来，然后看你可以对它做些什么。先将你的bin/app.py改成下面的样子。
 
 
-重启你的 web 程序(按 CTRL-C 后重新运行)，确认它有运行起来，然后使 用浏览器访问 http://localhost:8080/hello，这时浏览器应该会显示“I just wanted to say Hello, Nobody.”，接下来，将浏览器的地址改
-成 http://localhost:8080/hello?name=Frank，然后你可以看到页面显示为
+重启你的 web 程序(按 CTRL-C 后重新运行)，确认它有运行起来，然后使 用浏览器访问http://localhost:8080/hello，这时浏览器应该会显示“I just wanted to say Hello, Nobody.”，接下来，将浏览器的地址改
+成http://localhost:8080/hello?name=Frank，然后你可以看到页面显示为
 “Hello, Frank.”，最后将 name=Frank 修改为你自己的名字，你就可以看到它对 你说“Hello”了。
-
 
 让我们研究一下你的程序里做过的修改。
 1. 我们没有直接为greeting赋值，而是使用了web.input从浏览器获取数据。这 个函数会将一组 key=value 的表述作为默认参数，解析你 供的 URL 中
@@ -81,7 +70,7 @@ description: 立个Flag开始学Python。
 3. 其他的内容和以前是一样的，我们就不再分析了。
 
 URL 中该还可以包含多个参数。将本例的 URL 改成这样
-子: http://localhost:8080/hello?name=Frank&greet=Hola。然后修改代 码，让它去获取 form.name 和 form.greet，如下所示:
+子http://localhost:8080/hello?name=Frank&greet=Hola。然后修改代 码，让它去获取 form.name 和 form.greet，如下所示:
 greeting = "%s, %s" % (form.greet, form.name)
 
 修改完毕后，试着访问新的 URL。然后将 到什么样的错误信息。由于我们在
@@ -125,7 +114,6 @@ else:
 
 </body>
 </html>
-
 
 # 然后将bin/app.py改成这样：
 
@@ -194,9 +182,7 @@ $else:
 
 上面这些修改的目的，是将每一个页面顶部和底部的反复用到的“boilerplate”代 码剥掉。这些被剥掉的代码会被放到一个单独的 templates/layout.html 文件 中，从此以后，这些反复用到的代码就由 layout.html 来 供了
 
-
 # 上面的都改好以后，创建一个 templates/layout.html 文件，内容如下:
-
 
 $def with (content)
 
@@ -217,7 +203,6 @@ $:content
 render =web.template.render('templates/',base="layout")
 
 #这会告诉   让它去使用   作为其它模板的基 础模板。重启你的程序观察一下，然后试着用各种方法修改你的 layout 模板， 不要修改你别的模板，看看输出会有什么样的变化。
-
 
 # 为表单撰写自动测试代码
 
@@ -276,7 +261,6 @@ $ nosetests
 Ran 1 test in 0.059s
 
 OK
-
 
 # 文字部分
 
