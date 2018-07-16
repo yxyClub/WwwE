@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《笨办法学Python》记录-part5（习题41～47）
-date: 2017-11-06
+date: 2017-10-29
 categories: blog
 tags: [Python,笨办法学Python,LearPython2TheHardWay,LP2THW]
 description: 立个Flag开始学Python。
