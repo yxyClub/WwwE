@@ -11,7 +11,10 @@ header-img: "img/semantic.jpg"
 
 ## 我的编程教学
 
-- [最小行动法学Python](www.xiaoyan.work)
+- [最小行动法学Python]
+> 这是一个计划，需要持续补充和更新。这里计划采用gitbook来写。
+
+- [Learn Python2 The Hard Way](http://xiaoyan.work/tags/#LP2THW)
 
 ## 我编写的软件
 
@@ -26,6 +29,7 @@ header-img: "img/semantic.jpg"
 - [CTD校准入门手册](www.xiaoyan.work)
 - [压力校准入门手册](www.xiaoyan.work)
 - [CTD校准软件速查](www.xiaoyan.work)
+> 上述材料还没开始写。
 
 ## 我的投资教程
 
@@ -33,6 +37,7 @@ header-img: "img/semantic.jpg"
 - [五方操盘术](www.xiaoyan.work)
 - [价值投资实操](www.xiaoyan.work)
 - [烽火量化交易软件](www.xiaoyan.work)
+> 上述材料还没开始写。
 
 
 ## 我的读书笔记
