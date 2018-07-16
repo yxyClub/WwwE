@@ -7,6 +7,7 @@ tags: [Python,笨办法学Python,LearPython2TheHardWay,LP2THW]
 description: 立个Flag开始学Python。
 ---
 
+> test
 
 ## 第51题
 
