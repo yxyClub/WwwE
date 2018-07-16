@@ -6,7 +6,7 @@ categories: blog
 tags: [Python,笨办法学Python,LearPython2TheHardWay,LP2THW]
 description: 立个Flag开始学Python。
 ---
-> test
+> test+
 
 ## 第52题
 
