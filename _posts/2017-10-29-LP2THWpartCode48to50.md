@@ -71,6 +71,9 @@ sentence =[first_word,  second_word]
 
 有一件小事情我会先帮帮你，那就是数字转换。为了做到这一点，我们会作一点 弊，使用“异常(exceptions)”来做。“异常”指的是你运行某个函数时得到的错误。 你的函数在碰到错误时，就会“ 出(raise)”一个“异常”，然后你就要去处理(handle) 这个异常。假如你在 Python 里写了这些东西:
 
+```
+
+```
 # 代码
 
 ~/projects/simplegame $ python
@@ -193,6 +196,9 @@ def skip(word_list,word_type):
 	while peek(word_list)== word_type:
 		match(word_list,word_type)
 
+```
+
+```
 # 句子的语法：
 
 
@@ -278,6 +284,9 @@ def parse_sentence(word_list):
 	else:
 		raise ParserError ("Must start with subject,object,or verb not: %s" % start)
 
+```
+
+```
 # 关于异常(Exception)
 
 你已经简单学过关于异常的一些东西，但还没学过怎样抛出(raise)它们。这节的 代码演示了如何 raise 前面定义的ParserError。注意   是一个定 义为Exception类型的 class。另外要注意我们是怎样使用   这个关键字 来抛出异常的。
@@ -348,6 +357,10 @@ itifadeMacBook-Pro:~ yyy$
 
 
 '''
+
+```
+
+```
 ##  由于我的安装不是在根目录里，所以经常会遇到上面的权限不足的问题。itifa当时告诉我，更换了账户后登陆“终端”可能会遇到一些问题，现在果然遇到问题了，就是所谓权限不足的问题。
 ## 解决方案1：
 ## 解决方案2:直接进入itifa账户然后将这个账户改名。把原来的文件重新 copy到初始账户里。
@@ -387,6 +400,9 @@ $ python bin/app.py http://0.0.0.0:8080/
 到这里，我还没有讲到任何 web 相关的工作原理，因为首先你需要完成准备工 作，以便后面的学习能顺利进行，接下来的两节习题中会有详细的解释。我会要 求你用各种方法把你的 lpthw.web 应用程序弄坏，然后再将其重新构建起来: 这样做的目的是让你明白运行 lpthw.web 程序需要准备好哪些东西。
 
 
+```
+
+```
 ## 发生了什么事情？
 
 在浏览器访问到你的网页应用程序时，发生了下面一些事情:
