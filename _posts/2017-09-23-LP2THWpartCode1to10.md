@@ -7,7 +7,7 @@ tags: [Python,笨办法学Python,LearnPython2TheHardWay,LP2THW]
 description: 立个Flag开始学Python。
 ---
 
-> 后续练习的习题均为《笨办法学Python》（Learn Python 2 The Hard Way，LP2THW）的练习代码，所用的是Python2.7版本。后续我会再刷一遍
+> 后续练习的习题均为《笨办法学Python》（Learn Python 2 The Hard Way，LP2THW）的练习代码，所用的是Python2.7版本。后续我会再刷一遍Python3.x版
 
 ## 例题复现：
 

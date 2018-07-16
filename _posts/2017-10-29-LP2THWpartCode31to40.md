@@ -9,8 +9,6 @@ description: 立个Flag开始学Python。
 
 > 本文件是“《笨办法学Python2.x》教&学记录”的第4部分，记录31-40题的教学。
 
----
-
 ## 第31题
 
 ### CODE

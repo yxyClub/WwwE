@@ -7,7 +7,7 @@ tags: [Python,笨办法学Python,LearPython2TheHardWay,LP2THW]
 description: 立个Flag开始学Python。
 ---
 
-> test
+> 本文件是“《笨办法学Python2.x》教&学记录”的第5部分，记录41-47题的教学。
 
 ## 第48题
 
