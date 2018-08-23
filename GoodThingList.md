@@ -17,6 +17,16 @@ header-img: "img/semantic.jpg"
 
 - [阳志平的豆列](https://www.douban.com/people/ouyangzhiping/doulists/all)
 - [阳志平的书单的书单](https://www.yangzhiping.com/psy/booklist.html)
+- [价值智库系列（持续收集）](https://pan.baidu.com/s/1_bsP2OII2s3Ns_SmVij_-w)  密码: 5ug9
+
+
+## 社群
+- 开智
+- Debuguself
+
+## APP
+- itimelog苹果
+- atimeloger安卓
 
 ## 科研检索
 
