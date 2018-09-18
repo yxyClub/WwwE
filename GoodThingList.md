@@ -28,6 +28,14 @@ header-img: "img/semantic.jpg"
 - itimelog苹果
 - atimeloger安卓
 
+## 好工具
+- [workflowy](https://workflowy.com/)
+- [石墨文档](https://shimo.im/)
+- wiki？同步到本地的 wiki，github 自身的 wiki 怎么不好？还有别的 wiki？
+
+
+
+
 ## 科研检索
 
 - [SciHub_1](https://sci-hub.tw/):黑客精神在科研界诞生的一位罗宾逊。tw 镜像。
@@ -64,5 +72,7 @@ header-img: "img/semantic.jpg"
 ### ChangeLog
 
 - 2018-06-28 念起，创建。
-- 20180706 增加了栏目# 计量校准和[国家计量技术规范全文公开系统]。
-- 20180710 增加了“科研搜索”和“搜书”2个栏目
+- 2018-07-06 增加了栏目# 计量校准和[国家计量技术规范全文公开系统]。
+- 2018-07-10 增加了“科研搜索”和“搜书”2个栏目
+- 2018-09-18 增加了“好工具”一栏目前面的三条。
+-
