@@ -32,9 +32,9 @@ header-img: "img/semantic.jpg"
 - [workflowy](https://workflowy.com/)
 - [石墨文档](https://shimo.im/)
 - wiki？同步到本地的 wiki，github 自身的 wiki 怎么不好？还有别的 wiki？
-
-
-
+- HHKB键盘 Lite2，500-600块 RMB。
+- [Jupyter Notebook](http://jupyter.org/)
+> Ref: [左手程序员，右手作家：你必须会的Jupyter Notebook](https://www.jianshu.com/p/86117613b7a6)
 
 ## 科研检索
 
