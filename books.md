@@ -5,26 +5,23 @@ description: "书籍是人类进步的阶梯。坚持主题阅读，坚持最小
 header-img: "img/semantic.jpg"
 ---
 
-<center>
-    <p><img src="http://openmindclub.qiniudn.com/omt/WhiteAvatar.jpg" align="center"></p>
-</center>
 
-
----
-
-## 关于读书
-
-> 书籍是人类智慧的结晶，但是超越时代的好书确是很有限的。我们要在有限的生命里去阅读好书，提高自己的认知水平，创作此生的故事。
-
----
-
-## 主题阅读
-
-> - 主题阅读是建立自己知识体系的最好方法，下面根据自己的理解建立若干主题。将书目列入，有的书籍会存在于多个目录下面。
-> - 可能的主题有：
+>
+- 书是人类智慧的结晶，但是超越时代的好书确是很有限的。我们要在有限的生命里去阅读好书，提高自己的认知水平，创作此生的故事。
+- 主题阅读是建立自己知识体系的最好方法，下面根据自己的理解建立若干主题。将书目列入，有的书籍会存在于多个目录下面。可能的主题有：
 
 ### 人性
 > 了解作为人类的“我”和“我们”，Hack 自己的种族。关于人性的深层解读和认知，可以用于 N 多领域，例如投资、写作、育人、与人相处。
+
+- 《心智探奇》史蒂芬·平克
+- 《思想本质》
+- 《语言本能》
+- 《白板》
+- 《自私的基因》
+- 《理性？：为什么聪明人也做蠢事》
+- 《心灵种种》
+- 《脑的阅读》
+- 《WOOPS？》
 
 ### 思考
 
@@ -42,6 +39,7 @@ header-img: "img/semantic.jpg"
 - 证券分析
 - 巴菲特致股东信 杨天南
 - 海龟交易法则
+- 证券分析（上、下）本杰明·格雷厄姆
 
 其他：
 - 《穷查理宝典》，（美）彼得·考夫曼著
@@ -52,10 +50,26 @@ header-img: "img/semantic.jpg"
 
 ---
 ## 写作
+
 - 《写作风格的意识》（The Sence of style）
+- 《翻译乃大道》余光中
+- 《我的职业是小说家》村上春树
+- 《写作这回事》史蒂芬·金
 
+> 王小波极力推荐的两位翻译大家查良铮和王道乾的作品。
 
+- [查良铮翻译的书](https://book.douban.com/tag/%E6%9F%A5%E8%89%AF%E9%93%AE?start=0&type=T)
 
+- [王道乾翻译的书](https://book.douban.com/tag/%E7%8E%8B%E9%81%93%E4%B9%BE?start=0&type=T)
+
+>  好的读书笔记长成什么样子？
+- [《自私的基因》读书笔记](https://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&mid=400447905&idx=1&sn=6d61a5525ee2a571caff7a59b63de662&scene=20#rd)
+- [《看见成长的自己》读书笔记](https://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&mid=400370186&idx=1&sn=d766a213ae13ee2fa84b769a235f49b6#rd)
+- [《为什么学生不喜欢上学》的读书笔记](https://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&mid=400584235&idx=1&sn=56638726917d53ff074303baa128c01f&scene=20#rd)
+- [《经验的疆界》的读书笔记](https://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&mid=400109551&idx=1&sn=5a0afea4b6820d43d61a3c3343410963#rd)
+- [《机器人的叛乱》读书笔记](https://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&mid=400318011&idx=1&sn=b9ea054d990425fcec4ebaf9409be857#wechat_redirect)
+-  [《改变》的读书笔记](https://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&mid=402324321&idx=1&sn=67ad3651af41d7730e4025b2fdc27d76#rd)
+-  a
 
 
 
@@ -142,8 +156,8 @@ header-img: "img/semantic.jpg"
 
 
 ### 开智正典
-
-
+- [正文内容](https://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&mid=400076417&idx=1&sn=9a4213a1ca1feca712b19b37637d3807&scene=21#wechat_redirect)
+- [开智正典书目](https://www.douban.com/doulist/41691053/)
 
 
 ### 怎样学习
