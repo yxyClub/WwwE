@@ -18,7 +18,11 @@ header-img: "img/semantic.jpg"
 - [阳志平的豆列](https://www.douban.com/people/ouyangzhiping/doulists/all)
 - [阳志平的书单的书单](https://www.yangzhiping.com/psy/booklist.html)
 - [价值智库系列（持续收集）](https://pan.baidu.com/s/1_bsP2OII2s3Ns_SmVij_-w)  密码: 5ug9
+- [产品经理应该知道的计算机科学知识]( https://www.douban.com/doulist/46492698/ )
 
+- [从运营小白到运营总监]( https://www.douban.com/doulist/46315770/ )
+
+- [高阶模型]( https://www.douban.com/doulist/45530410/ )
 
 ## 社群
 - 开智
@@ -29,12 +33,15 @@ header-img: "img/semantic.jpg"
 - atimeloger安卓
 
 ## 好工具
+- [IAToolkit开智信息分析工具箱](https://github.com/AIHackers/IAToolkit)
 - [workflowy](https://workflowy.com/)
 - [石墨文档](https://shimo.im/)
 - wiki？同步到本地的 wiki，github 自身的 wiki 怎么不好？还有别的 wiki？
 - HHKB键盘 Lite2，500-600块 RMB。
 - [Jupyter Notebook](http://jupyter.org/)
 > Ref: [左手程序员，右手作家：你必须会的Jupyter Notebook](https://www.jianshu.com/p/86117613b7a6)
+
+- [awesome-github](https://github.com/XiaoYanWork/awesome-github)
 
 ## 科研检索
 
