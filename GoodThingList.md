@@ -31,6 +31,7 @@ header-img: "img/semantic.jpg"
 ## APP
 - itimelog苹果
 - atimeloger安卓
+- [typora](https://typora.io/)
 
 ## 好工具
 - [IAToolkit开智信息分析工具箱](https://github.com/AIHackers/IAToolkit)
