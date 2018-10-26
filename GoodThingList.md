@@ -17,7 +17,7 @@ header-img: "img/semantic.jpg"
 
 - [阳志平的豆列](https://www.douban.com/people/ouyangzhiping/doulists/all)
 - [阳志平的书单的书单](https://www.yangzhiping.com/psy/booklist.html)
-- [价值智库系列（持续收集）](https://pan.baidu.com/s/1_bsP2OII2s3Ns_SmVij_-w)  密码: 5ug9
+- [价值智库系列-持续收集](https://pan.baidu.com/s/1_bsP2OII2s3Ns_SmVij_-w)  Code# 5ug9
 - [产品经理应该知道的计算机科学知识]( https://www.douban.com/doulist/46492698/ )
 
 - [从运营小白到运营总监]( https://www.douban.com/doulist/46315770/ )
