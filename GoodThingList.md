@@ -33,7 +33,14 @@ header-img: "img/semantic.jpg"
 - atimeloger安卓
 - [typora](https://typora.io/)
 
+
+
+## Python
+
+https://github.com/iAIClub/ipython
+
 ## 好工具
+
 - [IAToolkit开智信息分析工具箱](https://github.com/AIHackers/IAToolkit)
 - [workflowy](https://workflowy.com/)
 - [石墨文档](https://shimo.im/)
@@ -82,20 +89,14 @@ header-img: "img/semantic.jpg"
 
 ## 牛人
 - [阳志平](https://www.yangzhiping.com/)
+- [阳志平的收集1-  含- 芒格集](https://www.bagtheweb.com/u/ouyang/bags)
+- [Charlie Munger 简介及文集整理](https://github.com/zhengxixuan/CharlieMungerTalk)
 - [oliverding](http://joinwee.com/accounts/oliverding/)
+- [保罗·格雷厄姆(Paul Graham)](http://www.paulgraham.com/articles.html)
+- [史蒂芬·平克(Steven Pinker)](http://www.stevenpinker.com)
+- [阮一峰](http://www.ruanyifeng.com/home.html)
 
-
-## 请喝咖啡
-
-有价值的事物，值得付出时间，也值得付出金钱。
-
-喜欢的朋友可以请喝拿铁。
-
-
-<center>
-    <p><img src="https://upload-images.jianshu.io/upload_images/3785456-80661d7ea73d186b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" align="center"></p>
-</center>
-
+> 查理芒格的综合网站待补充，另外有一堆牛人：道金斯、西蒙、斯坦诺维奇、马奇、芒格、丹尼尔丹尼特、费曼、纳博科夫、阿西莫夫、侯世达、帕金斯、艾科、阿奇舒勒、宇文所安、卡尼曼、吉仁泽、佐藤信夫、
 
 
 ### ChangeLog
@@ -105,3 +106,5 @@ header-img: "img/semantic.jpg"
 - 2018-07-10 增加了“科研搜索”和“搜书”2个栏目
 - 2018-09-18 增加了“好工具”一栏目前面的三条。
 - 2018-10-20 更新了科研搜索
+- 2018-11-28  在牛人里，增加了保罗·格雷厄姆(Paul Graham)、史蒂芬·平克(Steven Pinker) 、阮一峰
+
