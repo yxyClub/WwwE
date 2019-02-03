@@ -95,6 +95,7 @@ https://github.com/iAIClub/ipython
 - [保罗·格雷厄姆(Paul Graham)](http://www.paulgraham.com/articles.html)
 - [史蒂芬·平克(Steven Pinker)](http://www.stevenpinker.com)
 - [阮一峰](http://www.ruanyifeng.com/home.html)
+- [M-x Chris-An-Emacser](https://chriszheng.science/)
 
 > 查理芒格的综合网站待补充，另外有一堆牛人：道金斯、西蒙、斯坦诺维奇、马奇、芒格、丹尼尔丹尼特、费曼、纳博科夫、阿西莫夫、侯世达、帕金斯、艾科、阿奇舒勒、宇文所安、卡尼曼、吉仁泽、佐藤信夫、
 
