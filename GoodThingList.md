@@ -50,6 +50,8 @@ https://github.com/iAIClub/ipython
 > Ref: [左手程序员，右手作家：你必须会的Jupyter Notebook](https://www.jianshu.com/p/86117613b7a6)
 
 - [awesome-github](https://github.com/XiaoYanWork/awesome-github)
+- [迅捷 pdf 转换->很 Diao 的 pdf 转化](http://app.xunjiepdf.com)
+- [百度云下载-不限速](http://pandownload.com/)
 
 ## 科研检索
 
