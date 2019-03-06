@@ -1,10 +1,8 @@
 # CET4 words plus
 
+## A
 
-
-a
-
-art.一(个)；每一(个)
+a| art.一(个)；每一(个)
 
 abandon
 
@@ -22,29 +20,19 @@ aboard
 
 ad.&prep.在船(飞机、车)上；ad.上船(飞机)
 
-about
+~~about |ad.周围；大约；prep.关于；到处；忙于~~
 
-ad.周围；大约；prep.关于；到处；忙于
+~~above  |prep.高于，在…之上 a.上述的 ad.在上面~~
 
-above
+-   abbreviation
 
-prep.高于，在…之上 a.上述的 ad.在上面
+~~abroad | ad.在国外，在海外~~
 
-abroad
+~~absence|n.缺席；缺乏，缺少~~
 
-ad.在国外，在海外
+~~absent|a.缺席的；缺乏的；不在意的，茫然的~~
 
-absence
-
-n.缺席；缺乏，缺少
-
-absent
-
-a.缺席的；缺乏的；不在意的，茫然的
-
-absolute
-
-a.绝对的，完全的；确实的，肯定的
+~~absolute|a.绝对的，完全的；确实的，肯定的~~
 
 absorb
 
@@ -862,9 +850,7 @@ arrange
 
 vt.安排；整理 vi.安排，准备
 
-arrangement
-
-n.排列，整理；安排，准备
+**arrangement|n.排列，整理；安排，准备**
 
 arrest
 
@@ -1145,6 +1131,10 @@ a.可怕的；极坏的
 awkward
 
 a.尴尬的；笨拙的；使用不便的；棘手的
+
+
+
+## B
 
 baby
 
