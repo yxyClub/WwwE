@@ -53,6 +53,9 @@ https://github.com/iAIClub/ipython
 - [迅捷 pdf 转换->很 Diao 的 pdf 转化](http://app.xunjiepdf.com)
 - [百度云下载-不限速](http://pandownload.com/)
 - [外国-免费好用的在线pdf转换](https://smallpdf.com/cn)
+- [在线 pdf 转换器](<https://online2pdf.com/>)
+- [awesome-webApp](<https://github.com/brillout/awesome-web-apps>)
+- [Awesome-webAppMore](<https://github.com/aviaryan/awesome-no-login-web-apps>)
 
 ## 科研检索
 
