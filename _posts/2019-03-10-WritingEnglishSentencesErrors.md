@@ -348,6 +348,52 @@ Exercise:
 1. We are short of English teachers. Do you have anyone to introduce?
 
     >   We are short of English teachers. Do you have anyone to introduce to?
+    >
+    >   ---
+    >
+    >   Teacher:
+    >
+    >   introduce->recommend.introduce—>不认识的人介绍给你认识。
+    >
+    >   This school lacks teachers.This school is lacking in teachers.This school has a lack of teachers.
+    >
+    >   ---
+    >
+    >   lack of  ,No Be.
+    >
+    >   EG:Be short of Ok,~~Be lack of~~—> WRONG!!
+    >
+    >   ```
+    >   ▪ [+ of ]
+    >    »new parents suffering from lack of sleep
+    >     缺少睡眠的新爸爸新妈妈们
+    >    »Too many teachers are treated with a lack of respect.
+    >     有太多的老师得不到尊重。
+    >    »comments based on a total lack of information
+    >     全无根据的评论
+    >    »Does their apparent lack of progress mean they are not doing their job properly?
+    >     他们这样明显没有进步，是不是说明他们没有做好本职工作？
+    >    »tours that are cancelled for lack of bookings
+    >     因没人预订而取消的出游
+    >    »There was no lack of willing helpers.#不缺，relative lack of--
+    >     主动提出帮助的不乏其人。
+    >    »health problems linked to poor diet and a relative lack of exercise
+    >     不良饮食和运动相对缺乏而引起的健康问题
+    >   lack² 
+    >   ```
+    >
+    >   ```
+    >   ■verb
+    >   1. [T] to not have something that you need, or not have enough of it
+    >   •没有; 缺乏:
+    >    »Alex's real problem is that he lacks confidence.
+    >     亚历克斯的真正问题是缺乏信心。
+    >   ※ Do not use the verb lack before 'in' or 'of'. 动词 lack 后面不要用 in 或 of: #☆
+    >    »We lack ideas (NOT We lack in / of ideas).
+    >     我们没有主意。
+    >   However, you can use the phrases be lacking in and a lack of . 但是可以用 be lacking in 和 a lack of: 
+    >    »We are lacking in ideas OR 或 We have a lack of ideas.
+    >   ```
 
     >   short of 1 *we are short of nurses*: deficient in, lacking, wanting, in need of, low on, short on, missing; *informal* strapped for, pushed for, minus.2 *short of searching everyone, there is nothing we can do*: apart from, other than, aside from, besides, except (for), excepting, without, excluding, not counting, save (for).
     >
@@ -359,7 +405,9 @@ Exercise:
 
 3. It is uneasy to deal with the situation.
 
-    >   It is not easy to treat the situation.?
+    >   It is not easy（hard, difficult,tough） to treat the situation.
+    >
+    >   
     >
     >   ---
     >
@@ -439,7 +487,13 @@ Exercise:
 
 4. When the sun sets, it *goes under* the horizon.
 
-    >   When the sun sets, it *goes under* from the horizon.
+    >   When the sun sets, it *goes ~~under~~[down]from the horizon.
+    >
+    >   ---
+    >
+    >   T:under —>below
+    >
+    >   
     >
     >   ---
     >
@@ -468,6 +522,12 @@ Exercise:
     >
     >She denied accepting my invitation to a ball.  [deny + doing ](<https://www.ldoceonline.com/dictionary/deny>)
     >
+    >--
+    >
+    >T:
+    >
+    >denied —>其他
+    >
     >---
     >
     >deny| BrE dɪˈnʌɪ, AmE dəˈnaɪ |
@@ -488,7 +548,7 @@ Exercise:
 
 
 
-1. Please refer back again to my previous statement.
+1. Please refer~~ back ~~again to my previous statement.
 
     >   Please refer to my previous statement again.
     >
@@ -520,6 +580,8 @@ Exercise:
 
     >   I saw many trees around several teaching buildings.
     >
+    >   
+    >
     >   ----
     >
     >   ```
@@ -544,7 +606,11 @@ Exercise:
 
 3. I am lack words with which to express my thanks.
 
+    $:am去掉；
+
     >   I lack the words to express my gratitude(thanks).
+    >
+    >   T:~~be lack of~~
     >
     >   ----
     >
@@ -581,9 +647,11 @@ Exercise:
     >
     >   
 
-4. We are altogether again after long separation.
+4. We are altogether again after long sep**a**ration.
 
     >   We are together again after long separation(a long period of separation).
+    >
+    >   $:together 
     >
     >   ---
     >
@@ -614,6 +682,8 @@ Exercise:
 5. He accepted a lot of presents, but he didn’t receive them.
 
     >   He received  a lot of presents,but he didn't accepted them.
+    >
+    >   $颠倒
 
 
 
@@ -626,6 +696,8 @@ Exercise:
     >   Often staying up too late at night may hurt your body.
     >
     >   Frequent staying up late may hurt your body.
+    >
+    >   $ health. at night.stay up = sit up. injure one'health
     >
     >   ---
     >
@@ -693,12 +765,22 @@ Exercise:
     >   The sun rises from the east and falls to the west.
     >
     >   The sun rises from the east and moves down to the west.
+    >
+    >   $: rise in ,set in.At sunrise/sunset. 常用。
+    >
+    >   
 
-3. They can telephone each other like two persons talk about something face to face.
+    
+
+    13.They can telephone each other like two persons talk about something face to face.
 
     >   They can call each other like two people talking face to face.
     >
     >   They can telephone **to** each other like two persons **talking** about something face to face
+    >
+    >   $:like+doing.
+    >
+    >   They can telephone each other as /as if two ….
     >
     >   ----
     >
@@ -713,11 +795,15 @@ Exercise:
     >     我过后给你打电话。
     >   ```
 
-4. It is increasing necessary for a college student to learn a foreign language.
+3. It is increasing necessary for a college student to learn a foreign language.
 
     >   The need for college students to learn foreign languages is growing.
     >
     >   It is an increasing necessary for college student to learn a foreign language.
+    >
+    >   $:It is an increasubg necessity
+    >
+    >   $
     >
     >   ---
     >
@@ -732,11 +818,17 @@ Exercise:
     >     交给我吧，我会把该办的事都办好的。
     >   ```
 
-5. Explain the advantage of early rising is quite easy.
+4. Explain the advantage of early rising is quite easy.
 
     >Explain **that** the benefits of getting up early are easy.
     >
     >To Explain the advantage of early rising is quite easy.
+    >
+    >$:Explaining/To explain都可以做主语。
+    >
+    >Lying is wrong—》泛指。
+    >
+    >to lie is wrong—> 有所指
     >
     >---
     >
@@ -816,6 +908,12 @@ Exercise:
 
     >Welcome to our discussion on(about the ) current affairs.
     >
+    >$:(You are ) Welcome to Beijing.
+    >
+    >join us/a group/the army/the Part
+    >
+    >join in the outdoor activities /the extracurricular activities/ a discussion/a debate/a sporting event
+    >
     >---
     >
     >```
@@ -846,6 +944,14 @@ Exercise:
 
     >I think(In my opinion) we should spend more money on education.
     >
+    >$ As for me,Accoding + 3zhe.
+    >
+    >$ in my opinion/view
+    >
+    >from mu viewpoint/point of view
+    >
+    >in my mind ,to my mind.—>opinion
+    >
     >---
     >
     >```
@@ -863,11 +969,19 @@ Exercise:
 
 3.  He has contributed a lot of money for the relief work.
 
-    >   He has donated a lot of money for relief work.
+    >   He has donated a lot of money ~~for~~ relief work.
+    >
+    >   $ relief work :zhenzaigongzuo
+    >
+    >   $ for —> to 
 
 4.  My parents forbid me from going out at night.
 
     >My parents forbid me to go out at night.
+    >
+    >$:Not Wrong:
+    >
+    >$stop/keep/prevent
     >
     >---
     >
@@ -897,11 +1011,13 @@ Exercise:
 
 5.  He suggested me to take more exercise.
 
-    >   He suggested me to taking more exercise.
+    >   He suggested ~~me~~ ~~to~~ my taking more exercise.
     >
-    >   He suggested that I exercise more.
+    >   He suggested that( I exercise more.)(take more exercise.—>This no Wrong)
     >
-    >   He advised me to exercise more.
+    >   He advised me to exercise more.—OK
+    >
+    >   $:suggest +doing
     >
     >   ---
     >
@@ -930,6 +1046,14 @@ Exercise:
     >
     >   I **prefer** living in the countryside **to** living in a big city.
     >
+    >   $prfer (doing)… to(doing)..
+    >
+    >   prefer to do..
+    >
+    >   prefer that..
+    >
+    >   
+    >
     >   ---
     >
     >   ```
@@ -957,20 +1081,28 @@ Exercise:
     >   I want to change this pen into a new one.
     >
     >   I want to replace this pen with a new one.
+    >
+    >   $ ex change… for ...
+    >
+    >   change ..into,with —> for
 
 18. When I entered *into* the room, she was doing her homework.
 
     >   When I entered the room, she was doing her homework.
     >
-    >   
+    >   $ enter the WTO;entry into the WTO.
 
 19. I went to her house last night but she was absent.
 
     >   I went to her house last night, but she wasn't there.
+    >
+    >   $ absent->out/not in.
 
 20. I must seize this chance and reach my aim.
 
     >   I must seize this opportunity to achieve my goal.
+    >
+    >   $:reach—>achieve my  my aim/goal/objective/goal/ends—>achieve one's end.
 
 ----
 
@@ -987,6 +1119,8 @@ Exercise:
     >   I always ~~fee~~l ashamed when I speak English in public.
     >
     >   I am always ashamed to speak English in public.
+    >
+    >   $:~~shamed~~—> shy
     >
     >   ---
     >
@@ -1027,6 +1161,12 @@ Exercise:
 17. My parents were delightful when they knew that I <u>had</u> won.
 
     >   My parents were very happy when they knew that I won.
+    >
+    >   $ delightful—>delighted(令人感到。。的)
+    >
+    >   scary;scard
+    >
+    >   
     >
     >   ---
     >
@@ -1083,7 +1223,11 @@ Exercise:
 
     >   The prescribed medicine by that doctor proved very efficient. 
     >
-    >   The medicine prescribed by the doctor proved **to be** very effective.??
+    >   The medicine prescribed by the doctor proved( **to be)** very **effective.**
+    >
+    >   $上面对。
+    >
+    >   
     >
     >   ---
     >
@@ -1114,6 +1258,10 @@ Exercise:
 19. The characters in my story are entirely imaginative.
 
     >   The characters in my story are very creative.
+    >
+    >   $:imaginative—>imaginary
+    >
+    >   
     >
     >   ---
     >
@@ -1156,51 +1304,130 @@ Exercise:
 20. On the bus she was sitting right before me.
 
 >   On the bus she was sitting right in front of me.
+>
+>   $:before[时间]—>【空间】
 
 
 
 16. I cost all my money yesterday.
 
     >   I spent all my money yesterday.
+    >
+    >   $:cost 是被动的。
+    >
+    >   $spent 主动。
 
 17. Come and see me whenever you are convenient.
 
     >Come and see me  at your convenience.
+    >
+    >$:you are—>it is
+    >
+    >$:at your convience OK
 
 18. The traffic remained stationery so that the ambulance could pass.
 
     >The traffic remained ~~stationery~~【stationary】 so that the ambulance could pass. 
+    >
+    >$ 文具-保持不动。
+    >
+    >$stationary=still
 
 19. The bitch is feeding it’s puppies.
 
     >   The bitch is feeding **its** puppies.
+    >
+    >   $it's= it is OR it has
+    >
+    >   $its
 
 20. It is unable to raise the rock.
 
->   It is unable(impossible) to **lift** that rock.
+>   It is unable(**impossible**) to **(lift=raise)** that rock.
+>
+>   $ up is right
+>
+>   $rise;raise; ;arouse->引起。
+>
+>   
 
 16. We are busy to prepare for the exam.
 
-    >   We are busy to prepare ~~for~~ the exam.
+    >   We are busy to prepare ~~for~~ the exam.[ERROR]
     >
     >   ---
     >
-    >   We are busy **preparing** for the exam.
+    >   We are busy **preparing** for the exam.[OK]
+    >
+    >   $:busy with sth.busy doing sth.
+    >
+    >   $:We are busy with the preparation for the exam.
 
 17. Tom is dangerous. Help him!
 
     >   Tom is in danger. Help him!
+    >
+    >   $OK
 
 18. I saw you did it myself.
 
     >   I saw you did it yourself.
+    >
+    >   $ see sb .do  … 全过程
+    >
+    >   $ I my self saw you do it.
+    >
+    >    $I myself did the job.[ 反身代词]
+    >
+    >   $ I did the job myself.
 
 19. It is more easier to talk than to do.
 
     >   It is much easier to talk than to do.
+    >
+    >   $ 多音节用more, 单音节用 harder.
+    >
+    >   $ more去掉或者 much/a lot/a little
 
 20. At last, we obtained her approval to enter her house.
 
     >   At last, we obtained her permition to enter her house.
     >
     >   Finally, we got her consent and went into her house.
+    >
+    >   $ approval—>>permition
+    >
+    >   $At last, we obtained her approval of entering her house.
+    >
+    >   
+
+---
+
+$ 师：上面是冰山的一角。写作中要注意usage of words，注意搭配才能写好文章。孤立的记忆单词，依然不会用。
+
+￥当代英语用法词典—简清国和王文昌，建宏出版社。很好。
+
+对于高频词，words of high frequency，
+
+collocation.
+
+Eg:
+
+visiting:
+
+a visiting professor 客座教授
+
+a visiting scholar访问学者
+
+a visiting  day
+
+a visiting   card = a name card
+
+a visiting team 客队
+
+laungh:
+
+laungh a satellite/rocket—product advertising campaign, an attack ,a war
+
+
+

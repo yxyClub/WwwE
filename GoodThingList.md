@@ -39,6 +39,8 @@ header-img: "img/semantic.jpg"
 
 https://github.com/iAIClub/ipython
 
+awsome-Python
+
 ## 好工具
 
 - [IAToolkit开智信息分析工具箱](https://github.com/AIHackers/IAToolkit)
@@ -105,6 +107,12 @@ https://github.com/iAIClub/ipython
 
 > 查理芒格的综合网站待补充，另外有一堆牛人：道金斯、西蒙、斯坦诺维奇、马奇、芒格、丹尼尔丹尼特、费曼、纳博科夫、阿西莫夫、侯世达、帕金斯、艾科、阿奇舒勒、宇文所安、卡尼曼、吉仁泽、佐藤信夫、
 
+## 自由职业者
+
+-   [中国独立开发者项目列表 ](https://github.com/1c7/chinese-independent-developer)
+-   [贤民兄整理的中文独立博客清单](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)
+-   [国外的自由职业者](https://github.com/mezod/awesome-indie)
+-   [老阳-模因公社](http://memeworks.org/)
 
 ### ChangeLog
 
@@ -114,4 +122,5 @@ https://github.com/iAIClub/ipython
 - 2018-09-18 增加了“好工具”一栏目前面的三条。
 - 2018-10-20 更新了科研搜索
 - 2018-11-28  在牛人里，增加了保罗·格雷厄姆(Paul Graham)、史蒂芬·平克(Steven Pinker) 、阮一峰
+- 2019-03-23 增加"自由职业者"一栏目，来自[心智工具箱:一点自由](https://mp.weixin.qq.com/s/-7uyue8y5XAgd56AoDQFZA)
 
