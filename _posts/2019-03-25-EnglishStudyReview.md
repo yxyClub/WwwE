@@ -10,11 +10,9 @@
 
 题目是Foreign Language Study in USA
 
-笔记：待补充
+笔记：见下图
 
-原文链接：待补充
-
-原文音频：待补充
+原文链接：[历次听力](https://github.com/scu78/Class1/upload/master/Listerning/ListenDictation)
 
 >   听的效果不是很好，还是昨晚睡的比较晚的原因吧。
 
@@ -65,6 +63,7 @@ Mainly for listening the Words of Big Numbers.
     -   =》用特殊符号'&@%$'划出题目中的关键词。
     -   =》到原文中找相应关键词，同时标记上符号'&@%'
     -   =》
+    -   =》然后找到相关关键词，填写上去就好了，问题是：有些词汇他会做同义词替换，这个你不见得明白。
 
 练习：剑5p18Q4-7 6min、剑5p50Q28-34
 
@@ -118,6 +117,72 @@ Mainly for listening the Words of Big Numbers.
 ![1801553519403_.pic_hd](https://ws2.sinaimg.cn/large/006tKfTcgy1g1ffw7g06vj30qo1hc7bq.jpg)
 
 ![1811553519417_.pic_hd](https://ws1.sinaimg.cn/large/006tKfTcgy1g1ffwgpkbcj30qo1hc7az.jpg)
+
+
+
+## 再次回顾
+
+由于今天是第一天搞这个回顾，而且，有蟒营的事耽误了一些时间（要求下载原型班所有录音），所以写这个文档还是花了很长时间的，大约2-3小时吧。这可能会与我初衷相互违背呢？？为了复习和回顾，但是不能耽误太多时间。我们每天要与遗忘做斗争。
+
+由于这周时间特殊，除了每天回顾新学到的东西之外，还要完成前面一个月的主要内容的回顾，所以本周每天的英语听力决定不听了，等集中到下周再听。
+
+
+
+## 明日预习
+
+明天上课有3门：听力，写作，口语。听力照旧老三样。
+
+写作要继续讲语法书了，上次讲的是《英语语法精讲与测试（张福元）》p214定语从句;
+
+明天要讲的是 p229状语从句(体现逻辑关系的)—》这个是需要预习的。
+
+### 状语从句
+
+>   就是充当"状语"的"从句"(废话)  ==》时间、地点、方式、比较、原因、结果、目的、条件、让步……
+
+-   1.时间-状语从句：
+    -   1.when-while-as 引导：
+        -   when
+        -   while
+        -   as
+        -   其他：
+    -   3.once;directly;immedietly 表时间的副词做连词引导：
+        -   一……就……
+        -   
+    -   3.表时间的名词短语引导的时间状语从句：
+        -   the moment; the minute; the instant; the day;the year; any time;last/first time; next time; each time;every time
+    -   4.连接词as soon as; since;no sooner than…等引导的时间状语从句
+    -   5.till 和 untill
+    -   6.状语从句中省略 be 动词的情况。
+    -   7.时间状语从句中"一般现在时"表示"将来时"
+
+-   2.地点状语从句：
+    -   where;wherever;everywhere;anywhere引导的。
+
+-   3.原因状语从句：
+
+    -   3.1 because,since和as引导的：
+
+    -   3.2 for 和because 的区别：
+
+    -   3.3 复合连词引导的原因状语从句：
+
+    -   3.4 介词词组引导的原因状语从句：
+
+        
+
+-   4.结果状语从句：
+    -   4.1 so…that;such that;sucn…that引导的结果状语从句。
+    -   4.2 so, that和so that等引导的结果状语从句。
+    -   4.3  to such a degree that,to such an extent, with the result that 等引导的结果状语从句。
+
+-   5.目的状语从句：
+    -   so that, in order that
+    -   lest, for fear that,in case
+    -   so that引导结果状语从句和引导目的状语从句的区别。
+    -   
+
+-   6.条件状语从句
 
 
 
