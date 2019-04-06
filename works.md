@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "作品"
-description: "创造独特的模因，打磨传世的作品，向世界宣告，我曾经来过。"
+description: "创造独特的模因，打磨传世的作品。"
 header-img: "img/semantic.jpg"
 ---
 
@@ -9,7 +9,7 @@ header-img: "img/semantic.jpg"
     <p><img src="http://openmindclub.qiniudn.com/omt/WhiteAvatar.jpg" align="center"></p>
 </center>
 
-## 我的编程教学
+## 编程教学
 
 - [最小行动法学Python]
 > 这是一个计划，需要持续补充和更新。这里计划采用gitbook来写。
@@ -17,52 +17,40 @@ header-img: "img/semantic.jpg"
 - [Learn Python2 The Hard Way](http://xiaoyan.work/tags/#LP2THW)
 > 这里是我学习《Learn Python The Hard Way》2.x 版本的记录，供大家参考。
 
-## 我编写的软件
+## 编的软件
 
 - [TCNvalue](https://github.com/iAIClub/CTDsoft/tree/master/TCNvalueV1.0)
 
-## 我发表的论文
+## 发表论文
 
 - [论文查询地址：](http://xueshu.baidu.com/scholarID/CN-BQ735L8J)
 
-## 我的专业著作
+## 专业著作
 
 - [CTD校准入门手册](www.xiaoyan.work)
 - [压力校准入门手册](www.xiaoyan.work)
 - [CTD校准软件速查](www.xiaoyan.work)
 > 上述材料还没开始写。
 
-## 我的投资教程
-
+## 投资教程
+```
 - [烽火操盘术](www.xiaoyan.work)
 - [五方操盘术](www.xiaoyan.work)
 - [价值投资实操](www.xiaoyan.work)
 - [烽火量化交易软件](www.xiaoyan.work)
+```
 > 上述材料还没开始写。
 
 
-## 我的读书笔记
+## 读书笔记
 
 
-## 我的原创小说
+## 原创小说
 
-## 我的随笔
-
-
-## 我的技术文章
+## 酱油随笔
 
 
-
->下面这个栏目是cnfeat写的分类，我暂时保留。
----
->
->## 故事与人生
->## 笨方法学写作 课程
->## 卡片写作 系列文章
->## 写作态度 系列文章
->## 认知与学习 系列文章
->## 阅读与创作 系列文章
->## 工作与态度 系列文章
+## 技术文章
 
 
 ## 请喝咖啡
@@ -81,3 +69,4 @@ header-img: "img/semantic.jpg"
 ### ChangeLog
 
 - 2018-07-16 增补了 Learn Python2 The Hard Way 系列文章的索引。
+- 19-04-06 大量删减
