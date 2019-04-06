@@ -45,14 +45,11 @@ header-img: "img/semantic.jpg"
 
 ## 读书笔记
 
-
 ## 原创小说
 
 ## 酱油随笔
 
-
 ## 技术文章
-
 
 ## 请喝咖啡
 
@@ -62,7 +59,7 @@ header-img: "img/semantic.jpg"
 
 
 <center>
-    <p><img src="https://upload-images.jianshu.io/upload_images/3785456-80661d7ea73d186b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" align="center"></p>
+    <p><img src="img/wechatpay1.png" align="center"></p>
 </center>
 
 
