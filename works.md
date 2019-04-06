@@ -59,8 +59,7 @@ header-img: "img/semantic.jpg"
 
 
 <center>
-    <p><img src="img/wechatpay1.png" align="center" style="width:100px;height:100px;"></p>
-
+    <p><img src="img/wechatpay1.png" align="center" ></p>
 </center>
 
 
