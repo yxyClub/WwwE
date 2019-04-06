@@ -5,13 +5,12 @@ description: "创造独特的模因，打磨传世的作品。"
 header-img: "img/semantic.jpg"
 ---
 
-<center>
-    <p><img src="http://openmindclub.qiniudn.com/omt/WhiteAvatar.jpg" align="center"></p>
-</center>
 
 ## 编程教学
 
-- [最小行动法学Python]
+```
+- [最小行动法学Python](www.xiaoyan.work)
+```
 > 这是一个计划，需要持续补充和更新。这里计划采用gitbook来写。
 
 - [Learn Python2 The Hard Way](http://xiaoyan.work/tags/#LP2THW)
@@ -27,9 +26,11 @@ header-img: "img/semantic.jpg"
 
 ## 专业著作
 
+```
 - [CTD校准入门手册](www.xiaoyan.work)
 - [压力校准入门手册](www.xiaoyan.work)
 - [CTD校准软件速查](www.xiaoyan.work)
+```
 > 上述材料还没开始写。
 
 ## 投资教程
