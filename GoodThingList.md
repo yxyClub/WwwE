@@ -86,7 +86,7 @@ https://github.com/vinta/awesome-python
 - [广东省科技图书馆]()
 
 - [天津图书馆电子资源](http://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=273),cnki每年下载800页，其他的数据库没有限制。
-
+- [中国地方志数据库](http://lcd.ccnu.edu.cn)
 
 ## 搜书
 - [牛叉的淘宝卖家](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-18215966358.9.8ad4d89fdGZmoP&id=568518116548)
