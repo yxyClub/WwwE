@@ -95,7 +95,7 @@ https://github.com/vinta/awesome-python
 - [MeBook.cc](http://mebook.cc)
 - [ReadFree.me](http://readfree.me)
 
-## 
+
 
 ## 计量校准
 
@@ -122,6 +122,9 @@ https://github.com/vinta/awesome-python
 -   [国外的自由职业者](https://github.com/mezod/awesome-indie)
 -   [老阳-模因公社](http://memeworks.org/)
 
+## 其他
+- [维基解密网-by 阿桑奇](https://file.wikileaks.org/file/)
+
 ### ChangeLog
 
 - 2018-06-28 念起，创建。
@@ -131,4 +134,5 @@ https://github.com/vinta/awesome-python
 - 2018-10-20 更新了科研搜索
 - 2018-11-28  在牛人里，增加了保罗·格雷厄姆(Paul Graham)、史蒂芬·平克(Steven Pinker) 、阮一峰
 - 2019-03-23 增加"自由职业者"一栏目，来自[心智工具箱:一点自由](https://mp.weixin.qq.com/s/-7uyue8y5XAgd56AoDQFZA)
+- 2019-0421 增加维基揭秘网，前几天阿桑奇被捕了，放出了很多文件，还没来得及看看有啥好东西。
 
