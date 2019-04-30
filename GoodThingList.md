@@ -66,6 +66,7 @@ https://github.com/vinta/awesome-python
 - [在线 pdf 转换器](<https://online2pdf.com/>)
 - [awesome-webApp](<https://github.com/brillout/awesome-web-apps>)
 - [Awesome-webAppMore](<https://github.com/aviaryan/awesome-no-login-web-apps>)
+- [英文写作辅助网站](http://phrasebank.manchester.ac.uk)
 
 ## 科研检索
 
