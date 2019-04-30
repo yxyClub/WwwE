@@ -50,7 +50,7 @@ https://github.com/vinta/awesome-python
 [十行代码带你量化交易入门](https://www.joinquant.com/view/community/detail/96b0312c74c41b401f3d4f0610479ff2?type=1)
 
 ## 好工具
-
+- [简明git命令](https://mp.weixin.qq.com/s/rk8e77pYkbsm9NEKA7n_sA)
 - [IAToolkit开智信息分析工具箱](https://github.com/AIHackers/IAToolkit)
 - [workflowy](https://workflowy.com/)
 - [石墨文档](https://shimo.im/)
