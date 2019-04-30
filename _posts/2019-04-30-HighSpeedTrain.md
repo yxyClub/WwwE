@@ -1,6 +1,6 @@
 ---
 layout: post
-title: XX 的五一武汉计划
+title: 五一武汉计划
 date: 2019-04-30
 categories: blog
 tags: [五一,武汉,计划,攻略]
