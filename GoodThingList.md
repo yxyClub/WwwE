@@ -67,6 +67,7 @@ https://github.com/vinta/awesome-python
 - [awesome-webApp](<https://github.com/brillout/awesome-web-apps>)
 - [Awesome-webAppMore](<https://github.com/aviaryan/awesome-no-login-web-apps>)
 - [英文写作辅助网站](http://phrasebank.manchester.ac.uk)
+- [10款屌炸天的chrome插件](https://zhuanlan.zhihu.com/p/65606735?utm_source=wechat_session&utm_medium=social&utm_oi=928747206062800896&from=groupmessage)
 
 ## 科研检索
 
