@@ -27,3 +27,6 @@
 	* 缩短首页摘要为 70 字
 	* 多说替换成 disqus
 	* 置换字体
+
+-   211024 xiaoyan Changed the repo name from Www to WwwE.
+-   
