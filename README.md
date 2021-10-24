@@ -1,6 +1,6 @@
 ## 说明
 
-此博客模板 fork自陈素封[cnfeat](http://cnfeat.com/)，深表感谢。
+此博客模板 fork自陈素封[cnfeat](http://cnfeat.com/)，深表感谢。追溯到更早的作品实际上是源自 AZ 君（一位传说中的大神）
 
 ## 小焱作品
 
